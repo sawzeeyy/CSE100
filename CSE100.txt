@@ -1,0 +1,6274 @@
+Question 1
+(False AND (True OR True) AND (False OR True)) AND False
+
+(a) False [Answer]
+(b) True
+
+
+Question 2
+(False AND (True OR True) AND (False OR True)) OR True
+
+(a) False
+(b) True [Answer]
+(c) Not (True)
+(d) All of the Above
+
+
+Question 3
+(False AND (True OR True) AND (False OR True)) OR True
+
+(a) False
+(b) True [Answer]
+(c) Not (True)
+(d) All of the Above
+
+
+Question 4
+.......... allow people to communicate with the computer
+
+(a) Machine Language
+(b) Operating System
+(c) A programming Language [Answer]
+(d) All of the above
+
+
+Question 5
+.......... informs the computer what to do
+
+(a) Operands
+(b) Data
+(c) Operation Code [Answer]
+(d) Symbols
+
+
+Question 6
+.......... is a Subrange data type
+
+(a) A subset of contiguous, ordered data types.
+(b) A set of contiguous unordered data set.
+(c) A subset of contiguous, ordered data. [Answer]
+(d) All of the above
+
+
+Question 7
+.......... is used to decide if an expression will be True or False
+
+(a) Logical Operation [Answer]
+(b) Laudable Operation
+(c) Programming Operation
+(d) All of the above
+
+
+Question 8
+.......... tells the computer the data items involved in an operation
+
+(a) Program
+(b) Operation code
+(c) Operation
+(d) Operand [Answer]
+
+
+Question 9
+......is a dangerous progam that hide itself within other seemingly harmless programs
+
+(a) Logic Bomb
+(b) Trojan horses [Answer]
+(c) Virus
+(d) A and C
+
+
+Question 10
+......is a type of threat to a computer or its network
+
+(a) spyware
+(b) viruses
+(c) worms
+(d) All of the above [Answer]
+
+
+Question 11
+.....is the suites of programs that translate other programming languages to machine language
+
+(a) Translator [Answer]
+(b) Compiler
+(c) Assembler
+(d) Interpreter
+
+
+Question 12
+1 Kilobyte is equal to
+
+(a) 1000 bytes
+(b) 1014 bytes
+(c) 1012 bytes
+(d) 1024 bytes [Answer]
+
+
+Question 13
+The computer is an ___________ device
+
+(a) electronic
+(b) electrical
+(c) electro-mechanical
+(d) chemical
+(e) BASIC
+
+
+Question 14
+Identify the output devices among the following
+
+(a) Printer
+(b) Speakers
+(c) Microphone
+(d) Keyboard
+
+
+Question 15
+<img src="@@PLUGINFILE@@/hdw.jpg" alt="hardware components" width="346" height="106" />
+? in the figure above is acronymed as
+
+(a) CPU [Answer]
+(b) Processor
+(c) Central Processing Unit
+(d) PCU
+
+
+Question 16
+Computers can be classified based on the following
+
+(a) signal type
+(b) purpose
+(c) capacity
+(d) environment
+(e) user
+
+
+Question 17
+<img src="@@PLUGINFILE@@/OPERATION.jpg" alt="Basic  Operation of  a computer" width="361" height="154" />
+I, II and III in the figure above are ______, ___________ and _______ units
+
+(a) input, ouput and control [Answer]
+(b) output, control, and input
+(c) input, control and output
+(d) memory, arithmetic and control
+
+
+Question 18
+3 kilobyte is equivalent to
+
+(a) 3612 bytes
+(b) 3000 bytes
+(c) Symbolic form
+(d) 3072 bytes [Answer]
+
+
+Question 19
+A  network bridge is a network device that
+
+(a) Connects multiple network segments [Answer]
+(b) Isolates network segments
+(c) Removes network segment
+(d) Duplicates network segments
+
+
+Question 20
+A  step by step procedure used to solve a problem is called
+
+(a) Operating system
+(b) Algorithm [Answer]
+(c) Application Program
+(d) None of the above
+
+
+Question 21
+A ....... constant consists of a sequence of characters enclosed within a quotation mark
+
+(a) string [Answer]
+(b) variable
+(c) numeric
+(d) character
+
+
+Question 22
+A ....... variable is usually represented by an alphabet followed by a dollar sign
+
+(a) string [Answer]
+(b) variable
+(c) numeric
+(d) character
+
+
+Question 23
+A ........ constant is one that is formed by a sequence of digits and may include a decimal point
+
+(a) string
+(b) variable
+(c) numeric [Answer]
+(d) character
+
+
+Question 24
+A bit is an acronym for
+
+(a) Bitmap Image Translator
+(b) Binary Image Translator
+(c) Binary Integer Translator
+(d) Binary Digit [Answer]
+
+
+Question 25
+A characteristic of card system is
+
+(a) slowness in processing data
+(b) using cards as records of transactions
+(c) needing a larger data staff
+(d) All of these [Answer]
+
+
+Question 26
+A circle shape represents what function in a flowchart?
+
+(a) start or stop
+(b) connector between flowcharts that extends over one page [Answer]
+(c) decision making
+(d) direction of travel
+
+
+Question 27
+A common topology to any network is __________topology
+
+(a) Bus
+(b) Star [Answer]
+(c) Tree
+(d) Ring
+
+
+Question 28
+A compiler translates
+
+(a) high level language into low level language
+(b) high level language into machine language [Answer]
+(c) Low Level Language into High level language
+(d) very high level language into machine language
+
+
+Question 29
+A computer cannot boot if it does not have the
+
+(a) Compiler
+(b) Loader
+(c) Operating system [Answer]
+(d) Assembler
+
+
+Question 30
+A computer instruction has the following two parts
+
+(a) Variable and Instruction
+(b) Operand (s) and Operation code [Answer]
+(c) Operation code and Program
+(d) None of the above
+
+
+Question 31
+A computer is
+
+(a) An electronic machine that accepts data, processes information and give output
+(b) An electronic device that accepts and processes data and outputs information [Answer]
+(c) An electronic machine that accepts data as input and gives information as output
+(d) An electronic device that accepts information and processes it to give output
+
+
+Question 32
+A computer provides computing services to several users sharing the system resources concurrently in a
+
+(a) Real Time Operating System
+(b) Multisharing System
+(c) Resource Sharing System
+(d) Networked Computing System
+(e) Time Sharing Operating System [Answer]
+
+
+Question 33
+A conditional branch instruction will cause the computer to branch to a statement only when certain conditions exist?
+
+(a) true [Answer]
+(b) false
+
+
+Question 34
+A destructive program that disguised itself as an harmless piece of software is called _____?
+
+(a) Computer Viruses
+(b) Worms
+(c) Malware
+(d) Trojan horse [Answer]
+
+
+Question 35
+A file can be defined as a collection of relateD...........defined by its creator
+
+(a) Data
+(b) Program
+(c) Information [Answer]
+(d) None of the above
+
+
+Question 36
+A file server stands at the centre of most computer networks.Which of the following (if any) would normally be a function of a file server within a computer network?
+
+(a) Store and manage data files and software [Answer]
+(b) Manage the use and availability of shared resources
+(c) Provide network users with data, information and access to other network resources
+(d) All of the above.
+
+
+Question 37
+A finite step-by-step procedure to achieve a required result is
+
+(a) Flowchart
+(b) Algorithm [Answer]
+(c) procedure
+(d) programchart
+
+
+Question 38
+A floppy disk contains
+
+(a) Circular tracks only
+(b) Sectors only
+(c) Both circular tracks and sectors [Answer]
+(d) None of the above
+
+
+Question 39
+A flowchart begins with the word ...
+
+(a) Begin
+(b) Start [Answer]
+(c) Do
+(d) Move
+
+
+Question 40
+A flowchart terminates with the word ...
+
+(a) finish
+(b) halt
+(c) end
+(d) stop [Answer]
+
+
+Question 41
+A group of program that provides routines that handle the intricate details of input/output programming is called
+
+(a) Operating System handler
+(b) I/O handler
+(c) Operating System [Answer]
+(d) Routine handler
+
+
+Question 42
+A group of program that takes care of device and storage allocation is known as
+
+(a) Storage Allocator
+(b) Device Management Program
+(c) Operating System [Answer]
+(d) Device and Storage Manager
+
+
+Question 43
+A high level language built on one computer can run on a variety of computers.
+
+(a) true [Answer]
+(b) false
+
+
+Question 44
+A kite or inclined square shape represents what function in a flowchart?
+
+(a) start or stop
+(b) connector between flowcharts that extends over one page
+(c) decision making [Answer]
+(d) direction of travel
+
+
+Question 45
+A language translator that converts a source program code into the equivalent object code one after the other is known as
+
+(a) machine language
+(b) compiler
+(c) interpreter [Answer]
+(d) all of the above
+
+
+Question 46
+A list of coded instructions needed to solve a computational task is called
+
+(a) algorithm
+(b) computer program [Answer]
+(c) pseudocode
+(d) coded instructions
+
+
+Question 47
+a logical operator whose output is only true when both inputs are true is
+
+(a) NAND
+(b) AND [Answer]
+(c) NOT
+(d) OR
+
+
+Question 48
+A machine language is also known as
+
+(a) First National Language
+(b) Second National Language
+(c) First Generation Language [Answer]
+(d) Second Generation Language
+
+
+Question 49
+A machine language program does not allow the programmer to take advantage of all the features and capabilities of the coomputer system for which it was designed.
+
+(a) true
+(b) false [Answer]
+
+
+Question 50
+A network architecture in which each workstation (or PC) within the network has equivalent responsibilities and capabilities is normally known as
+
+(a) a client-server network.
+(b) a wide area network (WAN).
+(c) a local area network (LAN). [Answer]
+(d) a peer-to-peer network.
+
+
+Question 51
+A network bridge is a network device that
+
+(a) Connects multiple network segments [Answer]
+(b) Isolates network segments
+(c) Removes network segment
+(d) Duplicates network segments
+
+
+Question 52
+A number of invisible concentric circles in a magnetic disk are called
+
+(a) Compactments
+(b) Cells
+(c) Tracks [Answer]
+(d) Scales
+
+
+Question 53
+A parallelogram box in flowchart indicates
+
+(a) Decision
+(b) Input/output [Answer]
+(c) Connector
+(d) Process
+
+
+Question 54
+A parallelogram shape represents what function in a flowchart
+
+(a) start or stop
+(b) input or output [Answer]
+(c) decision making
+(d) processing block
+
+
+Question 55
+A Program designed to convert general purpose computer into a tool for a specific task is called
+
+(a) System program
+(b) Application program [Answer]
+(c) Utility program
+(d) Specific program
+
+
+Question 56
+A program is effectively tested when tested with three (3) kinds of data EXCEPT :
+
+(a) valid input data
+(b) valid but slightly abnormal input data
+(c) Invalid input data
+(d) numerical input data [Answer]
+
+
+Question 57
+A program that accepts program from a source language, reads, translates and executes it, line by line into machine language is known as
+
+(a) Converters
+(b) Translators
+(c) Compilers
+(d) Interpreters [Answer]
+
+
+Question 58
+A program that assists computer users to write their own programs by expanding simple statements into program code is called
+
+(a) Program Assistance
+(b) Program generator [Answer]
+(c) Program Counter
+(d) Program Helper
+
+
+Question 59
+A program written in Assembly language is translated into machine language with
+
+(a) Interpreter
+(b) Assembler [Answer]
+(c) Compiler
+(d) Editor
+
+
+Question 60
+A Program written in C language is called
+
+(a) C Code
+(b) Source C
+(c) Source Program [Answer]
+(d) Language Code
+
+
+Question 61
+A programming Language
+
+(a) Allow people to communicate with the computer [Answer]
+(b) Allow People to communicate with people
+(c) Allow Computer to communicate with other devices
+(d) All of the above
+
+
+Question 62
+A programming language allow a Computer Programmer to
+
+(a) Lock the activities of the computer
+(b) Direct the activities of the computer [Answer]
+(c) Clean Viruses in the computer
+(d) None of the above
+
+
+Question 63
+A programming Language does not
+
+(a) Allow people to communicate with the computer
+(b) Allow People to communicate with people
+(c) Allow Computer to communicate with other devices
+(d) None of the above [Answer]
+
+
+Question 64
+A quantity in a computer program which can change its value during program execution is called
+
+(a) constant
+(b) variable [Answer]
+(c) string
+(d) integer
+
+
+Question 65
+A quantity in a computer program which does not change its value during the execution of the program is called a
+
+(a) variable
+(b) character
+(c) number
+(d) constant [Answer]
+
+
+Question 66
+A quantity in a computer program which may change its value during the execution of the program is called a
+
+(a) variable [Answer]
+(b) character
+(c) number
+(d) constant
+
+
+Question 67
+A quantity that changes value during program execution is
+
+(a) Constant
+(b) Variable [Answer]
+(c) Expression
+(d) Operand
+
+
+Question 68
+A quantity that does not change its value during program execution is
+
+(a) Variable
+(b) Constant [Answer]
+(c) Expression
+(d) Operand
+
+
+Question 69
+A READ statement will always have a DATA statement along with it
+
+(a) false
+(b) true [Answer]
+(c) i don't know
+(d) all of the options
+
+
+Question 70
+A rectangular box in flowchart stands for
+
+(a) Decision
+(b) Process [Answer]
+(c) Input
+(d) Output
+
+
+Question 71
+A rectangular shape represents what function in a flowchart?
+
+(a) start or stop
+(b) processing block [Answer]
+(c) decision making
+(d) direction of travel
+
+
+Question 72
+A secondary goal of an operating system is
+
+(a) Speed
+(b) Convenience
+(c) Accuracy
+(d) Efficiency [Answer]
+
+
+Question 73
+A style of internal organization of the CPU is known as
+
+(a) CISC technology
+(b) RISC technology [Answer]
+(c) CPU structure technology
+(d) Internal technology
+
+
+Question 74
+A system that allows more than one active user program to be stored in main memory simultaneously is known as
+
+(a) Multiprocessing system
+(b) Multiprogramming system [Answer]
+(c) Multistoring System
+(d) Multiuser system
+(e) Batch processing system
+
+
+Question 75
+Accessibility is fastest in
+
+(a) ROM
+(b) CACHE [Answer]
+(c) RAM
+(d) Auxilliary
+(e) PROM
+
+
+Question 76
+Actual execution of instructions in a computer takes place in
+
+(a) ALU
+(b) Control Unit [Answer]
+(c) Storage unit
+(d) None of the above
+
+
+Question 77
+Algorithm was named after the ninth century scholar called
+
+(a) Muhammad Al-Khawarizm [Answer]
+(b) Abu Jafar Al-Kauthar
+(c) Musa Al-Garidim
+(d) Muhammad Ibn Sinia
+
+
+Question 78
+All are characteristics of a good program except
+
+(a) Accuracy
+(b) Fluency [Answer]
+(c) Robustness
+(d) Readability
+
+
+Question 79
+All are documents produced at the problem definition stage of program development except
+
+(a) List of official authorizing the request
+(b) A clear statement of the problem
+(c) Objectives of the program
+(d) List of programming aids [Answer]
+
+
+Question 80
+All are examples of documents produced at the solution planning stage except
+
+(a) Program source code sheet
+(b) Operator manual
+(c) User manual
+(d) Objectives of the program [Answer]
+
+
+Question 81
+All are keywords in BASIC except
+
+(a) End
+(b) B$ [Answer]
+(c) Read
+(d) Goto
+
+
+Question 82
+All are Stages in Programming except
+
+(a) Problem Creation [Answer]
+(b) Solution Planning
+(c) Coding
+(d) Algorithm Preparation
+
+
+Question 83
+All are Stages in Progrmming except
+
+(a) Problem Creation [Answer]
+(b) Solution Planning
+(c) Coding
+(d) Algorithm Preparation
+
+
+Question 84
+All are types of programming language except
+
+(a) Assembly language
+(b) Very low level language [Answer]
+(c) very high level language
+(d) machine language
+
+
+Question 85
+All of the following are database packages except
+
+(a) Dbase II
+(b) SQLbase IV [Answer]
+(c) Microsoft Access
+(d) Paradox III
+(e) Oracle
+
+
+Question 86
+All of the following are false EXCEPT
+
+(a) Computer hardware is driven by the users
+(b) Computer software is driven by the hardware
+(c) Computer hardware is driven by the software [Answer]
+(d) Operating system is driven by the application program
+(e) Application programs are developed using system compilers
+
+
+Question 87
+All of these are types of computers except
+
+(a) software [Answer]
+(b) analog
+(c) digital
+(d) hybrid
+
+
+Question 88
+All these are basic concepts important to the people in information security except _____?
+
+(a) Theft [Answer]
+(b) Non-repudiation
+(c) Authentication
+(d) Authorization
+
+
+Question 89
+All these are input devices except
+
+(a) Keyboard
+(b) Scanner
+(c) Printer [Answer]
+(d) Mouse
+
+
+Question 90
+All these are the basic components important to information in a computer security except _____?
+
+(a) Confidentiality
+(b) Availability
+(c) Corruption [Answer]
+(d) Integrity
+
+
+Question 91
+An advantage of a distributed word processing network is
+
+(a) increased number of reports handled
+(b) less delay in inter-office communications [Answer]
+(c) greater corporate control over outputs
+(d) All of these
+
+
+Question 92
+An algorithm must, as a characteristic
+
+(a) be general [Answer]
+(b) be lengthy
+(c) be short
+(d) live long
+
+
+Question 93
+An algorithm to find the product of three arbitrary numbers will NOT contain the following statement.
+
+(a) Input the three numbers A,B,C
+(b) Let sum= A+B+C [Answer]
+(c) Let sum= A*B*C
+(d) Output sum
+
+
+Question 94
+An arrow symbol represents what function in a flowchart
+
+(a) start or stop
+(b) connector between flowcharts that extends over one page
+(c) decision making
+(d) direction of travel [Answer]
+
+
+Question 95
+An Assembler is a software program that translates
+
+(a) translates machine language into assembly language
+(b) translates high level language into machine language
+(c) translates low level language into machine language [Answer]
+(d) translates assembly language into high level language
+
+
+Question 96
+An assembly language is computer independent.
+
+(a) true
+(b) false [Answer]
+
+
+Question 97
+An Assembly language program developed and run on IBM computers will work perfectly on ICL computers.
+
+(a) true
+(b) false [Answer]
+
+
+Question 98
+An example of a mechanical device is:
+
+(a) NIPCO Mech
+(b) Marchant Calculator [Answer]
+(c) Abaccus IV
+(d) UNIVAC
+
+
+Question 99
+An example of a Translator is a
+
+(a) Firmware
+(b) Peopleware
+(c) Compiler [Answer]
+(d) software
+
+
+Question 100
+An example of an all-purpose high level programming language is
+
+(a) Cobol
+(b) Algol
+(c) ForTran
+(d) BASIC [Answer]
+
+
+Question 101
+An example of an Output statement in BASIC Language is
+
+(a) PRINT Statement [Answer]
+(b) LET Statement
+(c) END Statement
+(d) DATA Statement
+
+
+Question 102
+An example of document produced at the solution planning stage is
+
+(a) List of official authorizing the request
+(b) A clear statement of the problem
+(c) Objectives of the program
+(d) Program narrative [Answer]
+
+
+Question 103
+An example of programming tools is
+
+(a) Microsoft powerpoint
+(b) Debuggers [Answer]
+(c) Spreadsheet
+(d) Word processor
+
+
+Question 104
+An input instruction directs the computer to ... data
+
+(a) move
+(b) dispense
+(c) process
+(d) accept [Answer]
+
+
+Question 105
+An input or output instruction does the following EXCEPT:
+
+(a) accepts data from a specific input device
+(b) stores data in a specific location
+(c) alter the sequence of program execution [Answer]
+(d) record data on an output medium
+
+
+Question 106
+An operating system can be tagged as
+
+(a) A central operation processing program
+(b) A control program [Answer]
+(c) Operational symbolic control system
+(d) A specific-purpose computers
+
+
+Question 107
+An operating system can be viewed as
+
+(a) A resource allocator
+(b) A memory manager
+(c) An interface between the user and the hardware
+(d) All of the above [Answer]
+
+
+Question 108
+An organized collection of data is known as
+
+(a) File
+(b) Information
+(c) Database [Answer]
+(d) Folder
+
+
+Question 109
+An oval shape represents what function in a flowchart?
+
+(a) start or stop [Answer]
+(b) connector between flowcharts that extends over one page
+(c) decision making
+(d) direction of travel
+
+
+Question 110
+An unconditional branch instruction will cause the computer to branch to a statement only when certain conditions exist?
+
+(a) true
+(b) false [Answer]
+
+
+Question 111
+Analog computers hold data in the form of
+
+(a) Analog variables
+(b) Digital variables
+(c) Numerical variables
+(d) Physical variables [Answer]
+
+
+Question 112
+Another name for Assembly Language is
+
+(a) Second National Language
+(b) First Generation Language
+(c) Second Generation Language [Answer]
+(d) First National Language
+
+
+Question 113
+ARP means
+
+(a) Advanced Resolution Protocol
+(b) Address Resolution Protocol [Answer]
+(c) Advancement Restive Protocol
+(d) Advanced Recognition Protocol
+
+
+Question 114
+ASCII code uses how many bits to represent characters?
+
+(a) 7 [Answer]
+(b) 8
+(c) 9
+(d) 6
+
+
+Question 115
+Assembler is to assembly language as compiler is to
+
+(a) Compiling language
+(b) Machine language
+(c) Low-level language
+(d) High-level language [Answer]
+
+
+Question 116
+Assembly language is also known as
+
+(a) High level language
+(b) Medium Level Language
+(c) Low Level Language [Answer]
+(d) Lower Level Language
+
+
+Question 117
+Auxiliary memory is also known as
+
+(a) Primary Memory
+(b) Secondary Memory [Answer]
+(c) Tertiary Memory
+(d) Plug and Play Memory
+
+
+Question 118
+BAN means
+
+(a) Broad Area Network
+(b) Bus Area Newtork
+(c) Body Area Network [Answer]
+(d) Business Area Network
+
+
+Question 119
+BASIC character set consists of the following except
+
+(a) Alphabets
+(b) Relational operators [Answer]
+(c) Digits
+(d) Special character
+
+
+Question 120
+BASIC is an acronym of
+
+(a) Beginners All-Responsible Simple Instruction Code
+(b) Beginners All-Purpose Symbolic Instruction Code [Answer]
+(c) Best All-Purpose Symbolic Instruction Code
+(d) All of the above
+
+
+Question 121
+BASIC is an example of
+
+(a) Machine language
+(b) Assembly language
+(c) High levellanguage [Answer]
+(d) Very high level language
+
+
+Question 122
+BASIC organizes the contents of all the DATA statements into a
+
+(a) DATA file
+(b) DATA block [Answer]
+(c) DATA folder
+(d) DATA bank
+
+
+Question 123
+BASIC program is an example of which level of programming language
+
+(a) low level language
+(b) machine language
+(c) high level language [Answer]
+(d) middle level language
+
+
+Question 124
+BASIC Programming Languages is a
+
+(a) Low level language
+(b) Assembly Language
+(c) Machine
+(d) High-level Language [Answer]
+
+
+Question 125
+BCPL was developed by
+
+(a) Von Neumann
+(b) Bill Gates
+(c) Larry Ellison
+(d) Martin Richards [Answer]
+
+
+Question 126
+BGP means
+
+(a) Broad Gated Protocol
+(b) Bytes Gaining Protocol
+(c) Border Grouping Protocol
+(d) Border Gateway Protocol [Answer]
+
+
+Question 127
+Binary Coded Decimal uses the symbols
+
+(a) 0 to 9 and letter A to F
+(b) 0 and 1 only
+(c) 0 to 7  only
+(d) 0 to 9 only [Answer]
+
+
+Question 128
+Binary number System uses the symbols
+
+(a) 0 to 9 and letter A to F
+(b) 0 and 1 only [Answer]
+(c) 0 to 7  only
+(d) 0 to 9 only
+
+
+Question 129
+BIOS means
+
+(a) Bus Inpout Output Schema
+(b) Basic Input Output Schema
+(c) Basic Input Output System [Answer]
+(d) Bus Input Output System
+
+
+Question 130
+CAN means
+
+(a) Country Access Network
+(b) Campus Area Network [Answer]
+(c) Cabled Area Network
+(d) County Affixed Network
+
+
+Question 131
+Charles Babbage analytical engine  was developed in:
+
+(a) 1943
+(b) 1843
+(c) 1934
+(d) 1834 [Answer]
+
+
+Question 132
+Charles Babbage invented
+
+(a) ENIAC
+(b) Difference engine [Answer]
+(c) Electronic computer
+(d) Punched card
+
+
+Question 133
+Check the odd term out
+
+(a) Internet [Answer]
+(b) Linux
+(c) Unix
+(d) Windows
+
+
+Question 134
+Choose the correct statement
+
+(a) library function programs produce result slower than a BASIC program written to perform the same task
+(b) library function programs produce less quality results
+(c) BASIC programs written by the user are more effective than library function
+(d) library function programs produce result faster than Basic program written to perform similar task [Answer]
+
+
+Question 135
+Choose the one that is valid in BASIC
+
+(a) IF (A + B) THEN 30
+(b) IF (A &amp;lt; B) THEN 30 [Answer]
+(c) IF (A - B) THEN 30
+(d) IF GOTO 30
+
+
+Question 136
+Clearing up storage areas, writing file labels and updating common data is a phenomenon known as
+
+(a) House-clearing
+(b) Storage-cleaning
+(c) House-keeping [Answer]
+(d) Storage-clearing
+(e) Data-cleaning
+
+
+Question 137
+COBOL means
+
+(a) Common Business Objective Language
+(b) Common Business Oriented Level
+(c) Common Business Orientation Language
+(d) Common Business Oriented Language [Answer]
+
+
+Question 138
+COBOL was developed and introduced in
+
+(a) 1956
+(b) 1959 [Answer]
+(c) 1963
+(d) 1978
+
+
+Question 139
+Collection of thousands of networks and attached devices is called _____?
+
+(a) Internet [Answer]
+(b) Intranet
+(c) Extranet
+(d) Intrunet
+
+
+Question 140
+COLOSSUS was designed by
+
+(a) Colombus Christopher
+(b) Alan Turing [Answer]
+(c) Bill Gates
+(d) Micheal Gebber
+
+
+Question 141
+Colossus, a second early electronic machine was designed by Alan Turing in:
+
+(a) 1934
+(b) 1843
+(c) 1943 [Answer]
+(d) 1834
+
+
+Question 142
+Computer network among computer devices close to one person is called _____?
+
+(a) PIN
+(b) PAN [Answer]
+(c) DAN
+(d) LAN
+
+
+Question 143
+Computer Programming Languages can be classified into
+
+(a) (Basic, Pascal, C++ and Java)
+(b) (Pnuemonics, Assembly, High-level and Very High-Level)
+(c) (Machine, Symbolic, High-level and Low-Level)
+(d) (Machine, Assembly, High-level and Very High-Level) [Answer]
+
+
+Question 144
+Computer software is divided into
+
+(a) system sotfware and application software [Answer]
+(b) Application software and language translator
+(c) System software and operating system
+(d) None of the above
+
+
+Question 145
+Computer softwares include all of the following except
+
+(a) Language translator
+(b) Application software
+(c) Utility software
+(d) Operating system
+(e) Program Software [Answer]
+
+
+Question 146
+Computers being used to control and monitor systems in areas like hydrodynamics can be regarded as
+
+(a) Control system
+(b) Digital computer
+(c) WatchDog computer
+(d) Analog computer [Answer]
+
+
+Question 147
+Computers that process data in discrete form are referred to as
+
+(a) Analog computers
+(b) Digital computers [Answer]
+(c) Specific-purpose computers
+(d) Discrete mini computers
+
+
+Question 148
+Conversion elements which accept analog inputs and outputs digital values are known as
+
+(a) Compilers
+(b) Translators
+(c) Digitizers [Answer]
+(d) Computers
+
+
+Question 149
+Conversion of programs written in non-machine language to machine language is done by a program called
+
+(a) Compiler
+(b) Translator [Answer]
+(c) Firmware
+(d) Operating System
+
+
+Question 150
+Convert 0.125 base 10 to Binary
+
+(a) 0.110
+(b) 0.101
+(c) 0.001 [Answer]
+(d) 0.010
+
+
+Question 151
+Convert 0.6875 base 10 to Binary
+
+(a) 0.1101
+(b) 0.1100
+(c) 0.1001
+(d) 0.1011 [Answer]
+
+
+Question 152
+Convert 1001110001011 in Binary number System to Hexadecimal
+
+(a) 1B38
+(b) 183B
+(c) 138B [Answer]
+(d) 13B8
+
+
+Question 153
+Convert 101010 in base 2 to Decimal
+
+(a) 40
+(b) 42 [Answer]
+(c) 46
+(d) 48
+
+
+Question 154
+Convert 10110.01 in base 2 to Decimal
+
+(a) 22.5
+(b) 20.5
+(c) 22.25 [Answer]
+(d) 20.25
+
+
+Question 155
+Convert 10110.1 in base 2 to Decimal
+
+(a) 22.5 [Answer]
+(b) 20.5
+(c) 22.25
+(d) 20.25
+
+
+Question 156
+Convert 101100111000 in Binary number System to Hexadecimal
+
+(a) B38 [Answer]
+(b) 83B
+(c) 38B
+(d) 3B8
+
+
+Question 157
+Convert 110000 in base 2 to Decimal
+
+(a) 40
+(b) 42
+(c) 46
+(d) 48 [Answer]
+
+
+Question 158
+Convert 111100101 in Binary to Hexadecimal
+
+(a) E15
+(b) 51E
+(c) 15E
+(d) 1E5 [Answer]
+
+
+Question 159
+Convert 111101100000 in Binary number System to Octal
+
+(a) 5740
+(b) 4750
+(c) 5470
+(d) 7540 [Answer]
+
+
+Question 160
+Convert 1111100101 in Binary to Hexadecimal
+
+(a) E35
+(b) 51E
+(c) 15E
+(d) 3E5 [Answer]
+
+
+Question 161
+Convert 3164 in Octal number System to Binary
+
+(a) 100110001011
+(b) 110001011100
+(c) 011001110100 [Answer]
+(d) 001011100110
+
+
+Question 162
+Convert 42 in base 10 to Binary
+
+(a) 101010 [Answer]
+(b) 101110
+(c) 100110
+(d) 110000
+
+
+Question 163
+Convert 44 in base 10 to Binary
+
+(a) 101100 [Answer]
+(b) 101110
+(c) 100110
+(d) 110000
+
+
+Question 164
+Convert 46 in base 10 to Binary
+
+(a) 100110
+(b) 110000
+(c) 101010
+(d) 101110 [Answer]
+
+
+Question 165
+Convert 48 in base 10 to Binary
+
+(a) 100110
+(b) 110000 [Answer]
+(c) 101010
+(d) 101110
+
+
+Question 166
+Convert 6134 in Octal number System to Binary
+
+(a) 100110001011
+(b) 110001011100 [Answer]
+(c) 011001110100
+(d) 001011100110
+
+
+Question 167
+Convert 64 Kilobytes to bytes
+
+(a) 64000 bytes
+(b) 63842 bytes
+(c) 65536 bytes [Answer]
+(d) 62344 bytes
+
+
+Question 168
+Convert 738 in base 10 to 2421 BCD
+
+(a) 101000111001
+(b) 011100111110 [Answer]
+(c) 011100111000
+(d) 101001101011
+
+
+Question 169
+Convert 738 in base 10 to 8421 BCD
+
+(a) 101000111001
+(b) 011100111000 [Answer]
+(c) 011100111110
+(d) 101001101011
+
+
+Question 170
+Convert 738 in base 10 to XS3 BCD
+
+(a) 101000111001
+(b) 011100111000
+(c) 011100111110
+(d) 101001101011 [Answer]
+
+
+Question 171
+Convert 837 in base 10 to 8421 BCD
+
+(a) 100000110111 [Answer]
+(b) 011100111000
+(c) 011100111110
+(d) 101001101011
+
+
+Question 172
+Data processing performed by several separate computers/computer networks, at several different locations, linked by a communications facility in known as
+
+(a) on-line processing.
+(b) distributed processing. [Answer]
+(c) centralised processing.
+(d) batch processing.
+
+
+Question 173
+Database management system is an example of
+
+(a) Machine language
+(b) Assembly language
+(c) Pascal language
+(d) Very high level language [Answer]
+
+
+Question 174
+DEC means
+
+(a) Digital Equipment Corporation [Answer]
+(b) Dell Emergency Computer
+(c) Digital Engineering Computer
+(d) Dell Engineering Corporation
+
+
+Question 175
+Diagrammatic representation of stepwise instructions to solve a particular problem is
+
+(a) graph
+(b) barchart
+(c) flowchart
+(d) flowgraph [Answer]
+
+
+Question 176
+Digital computers convert data into
+
+(a) Letter
+(b) Numbers
+(c) Binary [Answer]
+(d) Symbol
+
+
+Question 177
+Digital computers process data in
+
+(a) Letters
+(b) Discontinuous form [Answer]
+(c) Symbolic form
+(d) Scales
+
+
+Question 178
+Display writer is an example of
+
+(a) Spreadsheet
+(b) Word processor [Answer]
+(c) Game package
+(d) Database package
+(e) Output function
+
+
+Question 179
+Dot-matrix printers are examples of
+
+(a) Matrix-D type printers
+(b) Matrix-T type printers
+(c) Non-impact printers
+(d) Impact printers [Answer]
+
+
+Question 180
+Each instruction in a machine language program consists of two main parts namely:
+
+(a) operands and operation code [Answer]
+(b) data and operation code
+(c) storage address and operands
+(d) data and storage address
+
+
+Question 181
+EBCDIC code uses how many bits to represent characters?
+
+(a) 7
+(b) 8 [Answer]
+(c) 9
+(d) 6
+
+
+Question 182
+EDVAC means
+
+(a) Electrical Diverse Variation Computer
+(b) Electronic Discrete Variable Computer [Answer]
+(c) Electric Distribution Veritable Computing
+(d) Electronic Discrete Variation Computer
+
+
+Question 183
+Electronic switches used in the second generation was based on:
+
+(a) Integrated Circuit technology
+(b) Switching tube technology
+(c) Vacuum tube technology
+(d) Transistor tube technology [Answer]
+
+
+Question 184
+ENIAC means:
+
+(a) Electronic Number Integrator and Computer
+(b) Electronic Numerical Information Analog Computer
+(c) Electronic Numerical Integrator and Calculator [Answer]
+(d) Electronic Numeric Independent Analog Computer
+
+
+Question 185
+Erasable optical disks are based on a technology known as
+
+(a) Optical Programmable Erasable Technology
+(b) Optical Magnetic Erasable Technology
+(c) Magnetic Optical Technology [Answer]
+(d) Optical Erasable Technology
+
+
+Question 186
+Ethernet uses
+
+(a) Bus topology [Answer]
+(b) Ring topology
+(c) Mesh topology
+(d) None of the above
+
+
+Question 187
+Example of a twisted pair cable is _____?
+
+(a) CAT5 [Answer]
+(b) CAT2
+(c) CAT7
+(d) CAT3
+
+
+Question 188
+Examples of antivirus are
+
+(a) Norton and AVG
+(b) Avira
+(c) A alone
+(d) All of the above [Answer]
+
+
+Question 189
+Examples of communication packages include all of the following except
+
+(a) Carbon Talk [Answer]
+(b) Data Talk
+(c) Cross Talk
+(d) Carbon Plus
+
+
+Question 190
+Examples of graphic packages include all of the following except
+
+(a) PM
+(b) Photoshop
+(c) Graphic Writer
+(d) PM plus
+(e) Graphics Works [Answer]
+
+
+Question 191
+Execution of two or more programs by a single CPU is known as :
+
+(a) Multiprocessing
+(b) Time sharing [Answer]
+(c) Multiprogramming
+(d) None of the above
+
+
+Question 192
+Expressions written to compare two quantities are known as
+
+(a) arithmetic expressions
+(b) scientific expressions
+(c) relational expressions [Answer]
+(d) mathematical expressions
+
+
+Question 193
+F AND True OR True AND False OR True is
+
+(a) False
+(b) True [Answer]
+(c) Zero
+(d) None of the above
+
+
+Question 194
+False AND (True OR True) AND (False OR True) evaluates to
+
+(a) False [Answer]
+(b) True
+(c) All of the above
+(d) None of the above
+
+
+Question 195
+False AND True OR True AND False OR True is
+
+(a) False
+(b) True [Answer]
+(c) Zero
+(d) None of the above
+
+
+Question 196
+False AND True OR True OR False OR True is
+
+(a) False
+(b) True [Answer]
+(c) Zero
+(d) None of the above
+
+
+Question 197
+Firmware is held in non-volatile such as
+
+(a) ROM
+(b) EPROM
+(c) Flash memory
+(d) All of the above [Answer]
+
+
+Question 198
+First generation of computer was based on:
+
+(a) Switch circuit technology
+(b) Vacuum tube technology [Answer]
+(c) Integrated Circuit technology
+(d) Transistor technology
+
+
+Question 199
+First generation of electronic computers evolved between:
+
+(a) 1937 -1953 [Answer]
+(b) 1923 - 1967
+(c) 1934 - 1968
+(d) 1923 - 1957
+
+
+Question 200
+Floating point operations in the second generation of computers was done in
+
+(a) Vacuum tube
+(b) Transistor
+(c) Hardware [Answer]
+(d) Libraries of software routines
+
+
+Question 201
+Floating point operations were performed by in first generation were performed by
+
+(a) Vacuum tube circuit
+(b) Transistor
+(c) Hardware
+(d) Libraries of software routines [Answer]
+
+
+Question 202
+FORTRAN means
+
+(a) Formular Transistor
+(b) Formal Translator
+(c) Formular Translator [Answer]
+(d) Formal Transistor
+
+
+Question 203
+FORTRAN was developed and introduced in
+
+(a) 1956 [Answer]
+(b) 1986
+(c) 1946
+(d) 1976
+
+
+Question 204
+Fourth generation computer languages are procedural languages?
+
+(a) true
+(b) false [Answer]
+
+
+Question 205
+FTP means
+
+(a) File Transfer Protocol [Answer]
+(b) File Traffic Protection
+(c) File Transferring Protection
+(d) File Transmission Protocol
+
+
+Question 206
+Functional classes of network are
+
+(a) Client-server network and World Wide Web
+(b) Local Area network and MAN
+(c) Peer-to-peer and Client-server [Answer]
+(d) Intranet and Extranet
+
+
+Question 207
+Given the expression: X= (A+B)/D; if D = 0, what kind of error will this statement generate?
+
+(a) syntax error
+(b) semantic error [Answer]
+(c) syntactic error
+(d) divide overflow
+
+
+Question 208
+Given this expression A=(B*5)^2 the operation codes are
+
+(a) *^
+(b) A,B,5,2
+(c) *,^,2
+(d) *,^,= [Answer]
+
+
+Question 209
+Hexadecimal number System uses the symbols
+
+(a) 0 to 9 and letter A to F [Answer]
+(b) 0 and 1 only
+(c) 0 to 7  only
+(d) 0 to 9 only
+
+
+Question 210
+High Level languages are generally described as
+
+(a) Third Generation Languages [Answer]
+(b) First Generation Languages
+(c) Second Generation Languages
+(d) Fourth Generation Languages
+
+
+Question 211
+High level languages include all but
+
+(a) C language
+(b) C++ language
+(c) B language [Answer]
+(d) Ada language
+
+
+Question 212
+High Level Programming Languages introduced during the second generation of computers  include all of the following except
+
+(a) PASCAL
+(b) Fortran
+(c) Visual Basic [Answer]
+(d) Cobol
+
+
+Question 213
+How many are the classification of Computer networks?
+
+(a) 1
+(b) 2
+(c) 3
+(d) 4 [Answer]
+
+
+Question 214
+How many are the types of the functional relationship of a computer network classification?
+
+(a) 1
+(b) 2 [Answer]
+(c) 3
+(d) 4
+
+
+Question 215
+How many arrows will a flowchart to calculate the average of a list of numbers have on its decision making symbol?
+
+(a) 1 incoming and 3 outgoing
+(b) 2 incoming and 2 outgoing [Answer]
+(c) 1 incoming and 2 outgoing
+(d) 2 incoming and 1 outgoing
+
+
+Question 216
+How many bits are there in three (3) bytes
+
+(a) 48 bits
+(b) 3 bits
+(c) 24 bits [Answer]
+(d) 18 bits
+
+
+Question 217
+How many devices per chip exist in Large Scale Integration
+
+(a) 1000 [Answer]
+(b) 10000
+(c) 100000
+(d) 1000000
+
+
+Question 218
+How many devices per chip exists in VLSI
+
+(a) 10,000
+(b) 100,000 [Answer]
+(c) 1,000,000
+(d) 10,000,000
+
+
+Question 219
+How many different characters can ASCII represent?
+
+(a) 127
+(b) 256
+(c) 128 [Answer]
+(d) 257
+
+
+Question 220
+How many different characters can EBCDIC represent?
+
+(a) 127
+(b) 256 [Answer]
+(c) 128
+(d) 257
+
+
+Question 221
+How many processors are contained in the iPSC-1
+
+(a) 128 [Answer]
+(b) 100
+(c) 146
+(d) 120
+
+
+Question 222
+How many type of constant exist in BASIC programming language
+
+(a) 3
+(b) 2 [Answer]
+(c) 4
+(d) 5
+
+
+Question 223
+How many types of constant is supported by BASIC
+
+(a) 4
+(b) 2 [Answer]
+(c) 6
+(d) 3
+
+
+Question 224
+How many types of variable are supported by BASIC
+
+(a) 5
+(b) 2 [Answer]
+(c) 4
+(d) 3
+
+
+Question 225
+How many ways can signed numbers be represented
+
+(a) 4
+(b) 3 [Answer]
+(c) 2
+(d) 5
+
+
+Question 226
+HTML is used to create
+
+(a) Text Links
+(b) Web Pages [Answer]
+(c) Link Nodes
+(d) Web Banners
+
+
+Question 227
+IC chips used in computers are usually made of
+
+(a) Lead
+(b) Silicon [Answer]
+(c) Chromium
+(d) Gold
+
+
+Question 228
+Identify the item that does not fit into the list below:
+
+(a) Mouse
+(b) Keyboard
+(c) Printer [Answer]
+(d) Scanner
+(e) MICR
+
+
+Question 229
+Identify the odd one out of the following options
+
+(a) LET
+(b) INPUT
+(c) PRINT [Answer]
+(d) READ-DATA
+
+
+Question 230
+If a variable name is composed using alphabets and numbers, it is regarded as
+
+(a) alpha-number
+(b) alphabetic
+(c) mixed variable
+(d) alpha-numeric [Answer]
+
+
+Question 231
+If A=60 and B=180, then the expression A&gt;50 AND B&gt;150 is
+
+(a) true [Answer]
+(b) false
+
+
+Question 232
+If A=60 and B=180, then the expression A&gt;50 OR B&lt;150 is
+
+(a) true [Answer]
+(b) false
+
+
+Question 233
+If A=60 and B=180, then the expression A&lt;50 AND NOT(B&lt;150) is
+
+(a) true
+(b) false [Answer]
+
+
+Question 234
+If A=60 and B=180, then the expression A&lt;50 OR B&lt;150 is
+
+(a) true
+(b) false [Answer]
+
+
+Question 235
+In Assembly language, the operation code is expressed as a
+
+(a) combination of letters rather than binary numbers [Answer]
+(b) combination of binary and hexadecimal
+(c) combination of letters and binary numbers
+(d) pure binary numbers
+
+
+Question 236
+In BASIC, the argument of square root function(SQR) must be
+
+(a) a string variable
+(b) a string constant
+(c) a numeric constant [Answer]
+(d) a standard word
+
+
+Question 237
+In bus topology, local computers share
+
+(a) the same communication channel [Answer]
+(b) different communicattion channels
+(c) the same computer
+(d) none of the above
+
+
+Question 238
+In computer language, one kilobyte equals
+
+(a) 1000 bytes
+(b) 1024 bytes [Answer]
+(c) 100 bytes
+(d) 8 bytes
+
+
+Question 239
+In flowcharts, Output statements are put in:
+
+(a) A Square box
+(b) A rectangular box
+(c) A parallelogram box [Answer]
+(d) A circular box
+
+
+Question 240
+In flowcharts,input statements are put in:
+
+(a) A Square box
+(b) A rectangular box
+(c) A parallelogram box [Answer]
+(d) A circular box
+
+
+Question 241
+In OSI network architecture, the routing is performed by
+
+(a) network layer
+(b) data link layer
+(c) transport layer [Answer]
+(d) session layer
+
+
+Question 242
+Information is recorded on tracks of a disk surface in the form of tiny
+
+(a) Magnetic spots [Answer]
+(b) Magnetic tracks
+(c) Magnetic slots
+(d) Magnetic data
+
+
+Question 243
+Information retrieval is faster from
+
+(a) Floppy disk
+(b) Magnetic tape
+(c) Hard disk [Answer]
+(d) None of the above
+
+
+Question 244
+Interbase is a
+
+(a) Database Package [Answer]
+(b) Desktop Application
+(c) Interconnection Software
+(d) Internet Browser
+
+
+Question 245
+Intermediate results of processing are stored in the
+
+(a) PROM
+(b) PRAM
+(c) RAM [Answer]
+(d) ROM
+(e) CACHE
+
+
+Question 246
+Interpreters convert Source programs to object code
+
+(a) Immediately
+(b) Consistently
+(c) Accurately
+(d) Line by line [Answer]
+
+
+Question 247
+Is it possible to detect logic errors during program compilation?
+
+(a) true
+(b) false [Answer]
+
+
+Question 248
+Is machine language computer dependent?
+
+(a) true [Answer]
+(b) false
+
+
+Question 249
+ISP means
+
+(a) Internet Service Provider [Answer]
+(b) Internet Service Position
+(c) Internet Services Portfolio
+(d) Internet Service Packages
+
+
+Question 250
+Language Translators translate other languages to
+
+(a) Executable form
+(b) Machine Language [Answer]
+(c) Coded Form
+(d) Instruction Code
+
+
+Question 251
+Laptop PCs are also known as __________Computers
+
+(a) Mainframe
+(b) Super
+(c) Notebook [Answer]
+(d) personal
+
+
+Question 252
+LARC means
+
+(a) Livermore Automatic Reset Computer
+(b) Livermore Atomic Release Computer
+(c) Livermore Automated Researching Computation
+(d) Livermore Atomic Research Computer [Answer]
+
+
+Question 253
+LD3 is an example of statement in
+
+(a) Pascal language
+(b) Basic Language
+(c) Machine Language
+(d) assembly Language [Answer]
+
+
+Question 254
+LET A$=”Computer Dept” is an example of
+
+(a) String Variable [Answer]
+(b) String Line number
+(c) Numeric Constant
+(d) Numeric variable
+
+
+Question 255
+LET Statemnet in BASIC is an example of
+
+(a) conditional Statement
+(b) input Statement [Answer]
+(c) Restore Statement
+(d) Print statement
+
+
+Question 256
+LET X=5.32 is an example of
+
+(a) Arithmatic expression
+(b) Numeric Constant [Answer]
+(c) Numeric variable
+(d) None of the above
+
+
+Question 257
+Lexical analysis, syntax analysis, semantic analysis and code generation are stages in
+
+(a) Programming
+(b) Compilation [Answer]
+(c) Debugging
+(d) Translation
+(e) Interpretation
+
+
+Question 258
+LOCO Script is a
+
+(a) Scripting Software
+(b) Word Processor [Answer]
+(c) Spreadsheet
+(d) Game Package
+
+
+Question 259
+logical negation is performed using
+
+(a) NAND operator
+(b) AND operator
+(c) NOT operator [Answer]
+(d) OR operator
+
+
+Question 260
+Logical operations are those operations that result in either
+
+(a) Come or Go
+(b) True or False
+(c) Yes or No
+(d) All of the above [Answer]
+
+
+Question 261
+Logical operations are used to decide if an expression will be
+
+(a) True or False
+(b) High or Low
+(c) Good or Bad
+(d) All of the above [Answer]
+
+
+Question 262
+logical operator that depicts conjunction between two operands is known as
+
+(a) NAND
+(b) AND [Answer]
+(c) NOT
+(d) OR
+
+
+Question 263
+logical operator which depicts disjunction between two variables is known as
+
+(a) NAND
+(b) AND
+(c) NOT
+(d) OR [Answer]
+
+
+Question 264
+LSI is made up of
+
+(a) 1, 000, 000 devices per chip
+(b) 1, 000 devices per chip [Answer]
+(c) 100, 000 devices per chip
+(d) 10, 000 devices per chip
+
+
+Question 265
+MAC means
+
+(a) Mega Access Context
+(b) Medium Access Controls
+(c) Media Access Control [Answer]
+(d) Meager Accessed Controller
+
+
+Question 266
+Magnetic tapes and magnetic disk are examples of a
+
+(a) Primary Storage
+(b) Secondary Storage [Answer]
+(c) Tertiary Storage
+(d) Permanent Storage
+
+
+Question 267
+MAN means
+
+(a) Mega Area Network
+(b) Metropolitan Area Network [Answer]
+(c) Medium Access Network
+(d) Mixed Area Network
+
+
+Question 268
+McAfee is a
+
+(a) Special Anti-Virus
+(b) Recognised Anti-Virus [Answer]
+(c) Cracked Anti-Virus
+(d) Reserved Anti-Virus
+
+
+Question 269
+Mflops means
+
+(a) Mega floating point operations per second
+(b) Million floating points operations per session
+(c) Million floating point operations per second [Answer]
+(d) Million floating points options per seconds
+
+
+Question 270
+Microsoft Office is an example of a
+
+(a) Office Application
+(b) Integrated Package [Answer]
+(c) Word Processor
+(d) Application Software
+
+
+Question 271
+Minitab is an example of a
+
+(a) Statistical Package [Answer]
+(b) Mathematical Software
+(c) Spreadsheet
+(d) Tabbing Software
+
+
+Question 272
+Minitab is an example of a
+
+(a) Statistical Package [Answer]
+(b) Mathematical Software
+(c) Spreadsheet
+(d) Tabbing Software
+
+
+Question 273
+MIPS means
+
+(a) Maintime Instructions Per Second
+(b) Meantime Instructions Per Second
+(c) Mainwhile Instructions Per Second
+(d) Meanwhile Instructions Per Second [Answer]
+
+
+Question 274
+Modem stands for
+
+(a) A type of secondary memory
+(b) Modulator demodulator [Answer]
+(c) Mainframe operating device memory
+(d) None of the above
+
+
+Question 275
+Most LAN operate at a data rate of
+
+(a) 100mb/s to 200mb/s
+(b) 10mb/s to 100mb/s [Answer]
+(c) 10mb/s to 50mb/s
+(d) all of the above
+
+
+Question 276
+MS-DOS is the name of a/an
+
+(a) Application software
+(b) Hardware
+(c) System software [Answer]
+(d) None of these
+
+
+Question 277
+Multilayered printed circuits and solid-state memories are characteristics of
+
+(a) 1st Generation
+(b) 2nd Generation
+(c) 3rd Generation [Answer]
+(d) 4th Generation
+(e) 5th Generation
+
+
+Question 278
+NAND Gate implies
+
+(a) Not NAND
+(b) Not AND [Answer]
+(c) Not OR
+(d) None of the above
+
+
+Question 279
+NAO is
+
+(a) The inorder of Precedence of logical operations
+(b) The order of Precedence of logical operations [Answer]
+(c) OR, AND, NOT
+(d) NAND, NOR NOT
+
+
+Question 280
+Networks can be classifid according to one of these
+
+(a) Type of wires used
+(b) Transmission Medium [Answer]
+(c) Connecting Rays
+(d) Router type
+
+
+Question 281
+NIC means?
+
+(a) Network Interfacing Cards
+(b) Networking Interfacing Cards
+(c) Networked Interface Cards
+(d) Network Interface Cards [Answer]
+
+
+Question 282
+NOR Gate implies
+
+(a) Not NAND
+(b) Not AND
+(c) Not OR [Answer]
+(d) None of the above
+
+
+Question 283
+Not AND means
+
+(a) NoAND
+(b) NAND [Answer]
+(c) Not OR
+(d) None of the above
+
+
+Question 284
+Not OR Gate implied
+
+(a) NotOR
+(b) NOR [Answer]
+(c) Not OR
+(d) None of the above
+
+
+Question 285
+Octal number System uses the symbols
+
+(a) 0 to 9 and letter A to F
+(b) 0 and 1 only
+(c) 0 to 7  only [Answer]
+(d) 0 to 9 only
+
+
+Question 286
+OMR means
+
+(a) Optical Mark Roller
+(b) Optical Machine Reader
+(c) Optical Mark Reader [Answer]
+(d) Optical Machine Roller
+
+
+Question 287
+One Gigabyte is Approximately equal is
+
+(a) 1000,000 bytes
+(b) 1000,000,000 bytes [Answer]
+(c) 1000,000,000,000 bytes
+(d) None of these
+
+
+Question 288
+One kilobyte is equal to
+
+(a) 1000 bytes
+(b) 1024 bytes [Answer]
+(c) 100 bytes
+(d) 1023 bytes
+
+
+Question 289
+One method of testing a program for correctness in which the programmer traces the processing steps pretending to be the computer is called
+
+(a) storage dump
+(b) manual walk-through [Answer]
+(c) use of tracing routines
+(d) conversion
+
+
+Question 290
+One of the advantages of writing programs in high level language is
+
+(a) Usage on selected Computers
+(b) Debugging is tedious
+(c) Closeness to Machine Language
+(d) Machne Independence [Answer]
+
+
+Question 291
+One of the following in NOT an advantage of the BASIC programming language.
+
+(a) easy to learn
+(b) quick program development cycle
+(c) machine dependence [Answer]
+(d) availability on every computer
+
+
+Question 292
+One of the following is a statistical package
+
+(a) Stat SPCS
+(b) Stat SPSC
+(c) FoxPro Stat
+(d) Stat Graphical [Answer]
+(e) Dbase Stat
+
+
+Question 293
+One of the following is NOT a characteristic of a good program
+
+(a) Accuracy
+(b) Efficiency
+(c) Readability
+(d) Portability [Answer]
+
+
+Question 294
+One of the following is not a correct definition of an algorithm.
+
+(a) a set of rules for carrying out calculations either by hand or a machine
+(b) a finite step-by-step procedure to achieve a required result
+(c) a sequence of computational steps that transform a set of inputs into a set of outputs
+(d) a graphical representation of major steps of work in solving a problem [Answer]
+
+
+Question 295
+One of the following is NOT a desktop publishing package
+
+(a) Xerox Form Base
+(b) Ventura
+(c) Publishers
+(d) News Master II
+(e) Ventura IV [Answer]
+
+
+Question 296
+One of the following is NOT a programming tools.
+
+(a) program development systems
+(b) application generator
+(c) Debuggers
+(d) Mnemonics [Answer]
+
+
+Question 297
+One of the following is NOT a section in decision tables.
+
+(a) condition stub
+(b) condition entry
+(c) stub entry [Answer]
+(d) action stub
+
+
+Question 298
+One of the following is NOT a step involved in the preparation of a computer program.
+
+(a) Devising the method of solution
+(b) Developing methods using suitable aids
+(c) Writing instructions in a programming language
+(d) Selecting a suitable programming language [Answer]
+
+
+Question 299
+One of the following is NOT an element of the BASIC  character set
+
+(a) alphabets
+(b) digits
+(c) special characters
+(d) function keys [Answer]
+
+
+Question 300
+One of the following is responsible for facilitating the creation and modification of program and data files through an editor program
+
+(a) Storage Modification System
+(b) Program Manager
+(c) Operating System [Answer]
+(d) File and Storage Manager
+
+
+Question 301
+One of these is a Language Translator
+
+(a) Assembler [Answer]
+(b) Editor
+(c) Widget
+(d) Debugger
+
+
+Question 302
+One of these is a Low Level Language
+
+(a) Phyton
+(b) Assembly [Answer]
+(c) FORTRAN
+(d) BASIC
+
+
+Question 303
+One of these is a part of the processing unit of a Computer
+
+(a) Printing Unit
+(b) Preveiwing Unit
+(c) Control Unit [Answer]
+(d) Saving Unit
+
+
+Question 304
+One of these is an advantage of programs written in machine language.
+
+(a) symbolic way of expressing instructions
+(b) machine independence
+(c) efficiency with respect to storage requirements and operating speeds [Answer]
+(d) flexibility
+
+
+Question 305
+One of these is characteristic of an algorithm
+
+(a) it must be cheap
+(b) it must terminate [Answer]
+(c) it must be written by a programmer
+(d) no program can be written without it
+
+
+Question 306
+One of these is not a component of an algorithm
+
+(a) sequence
+(b) series [Answer]
+(c) iteration
+(d) selection
+
+
+Question 307
+One of these is not a function of the Operating System
+
+(a) Memory Management
+(b) Process Management
+(c) Structure Management [Answer]
+(d) File Management
+
+
+Question 308
+One of these is not a Graphics Application
+
+(a) Adobe ImageReady
+(b) Adobe Photoshoot [Answer]
+(c) Corel Draw
+(d) Macromedia Fireworks
+
+
+Question 309
+One of these is not a Hardware used in Networking
+
+(a) Hubs
+(b) Networker [Answer]
+(c) Bridges
+(d) Router
+
+
+Question 310
+One of these is not a High Level Programming Language
+
+(a) FORTRAN
+(b) COBOL
+(c) Assembly [Answer]
+(d) PASCAL
+
+
+Question 311
+One of these is not a Network Topology
+
+(a) Bus Topology
+(b) Ring Topology
+(c) Wired Topology [Answer]
+(d) Star Topology
+
+
+Question 312
+One of these is NOT a network-bridging technology
+
+(a) Simple
+(b) Multiport
+(c) Compound [Answer]
+(d) Learning
+
+
+Question 313
+One of these is not a stage in Compilation
+
+(a) Lexical Analysis
+(b) Code Generation
+(c) Debugging Time [Answer]
+(d) Semantic Analysis
+
+
+Question 314
+One of these is not a Word Processor
+
+(a) WordPerfect
+(b) MS-Word
+(c) Word Reactix [Answer]
+(d) WordStar
+
+
+Question 315
+One of these is not an example of an expert user
+
+(a) Hacker [Answer]
+(b) Programmer
+(c) Data Analyst
+(d) Software Engineer
+
+
+Question 316
+One of these is not in the same category with Skype
+
+(a) Facebook Chat
+(b) Nimbuzz
+(c) Encarta [Answer]
+(d) 2go
+
+
+Question 317
+One of these is not part of the BASIC resources of a Computer
+
+(a) Data
+(b) Software
+(c) Hardware
+(d) Current [Answer]
+
+
+Question 318
+One of these is ODD
+
+(a) Adobe Pagemaker
+(b) Adobe Photoshop [Answer]
+(c) Ventura
+(d) MS Publisher
+
+
+Question 319
+One of these is ODD
+
+(a) Bridges
+(b) Switches
+(c) Keyboard [Answer]
+(d) Routers
+
+
+Question 320
+One of these is ODD
+
+(a) Trojan Horse
+(b) Logic Bomb
+(c) Skype Scammers [Answer]
+(d) Spyware
+
+
+Question 321
+One of these is ODD with respect to Information Security
+
+(a) Usability [Answer]
+(b) Integrity
+(c) Confidentiality
+(d) Availability
+
+
+Question 322
+One of this can NOT be used to write a high level program.
+
+(a) numbers
+(b) letters
+(c) special characters
+(d) sentences [Answer]
+
+
+Question 323
+One of thses is NOT an Anti-Virus
+
+(a) AntiVir
+(b) Norton
+(c) SceScan [Answer]
+(d) Sophos
+
+
+Question 324
+Operand (s) and Operation code are the components of
+
+(a) Computer instruction [Answer]
+(b) Variable and Instruction
+(c) Machine language
+(d) Operation code and Program
+
+
+Question 325
+Operating system
+
+(a) Link a program with the subroutines it references
+(b) Provides a layered, user-friendly interface [Answer]
+(c) Enables a programmer to draw a flowchart
+(d) None of the above
+
+
+Question 326
+Operating system is
+
+(a) A collection of hardware components
+(b) A collection of software routines [Answer]
+(c) A collection of input-output devices
+(d) none of the above
+
+
+Question 327
+Operation that must be performed before and after an actual data processing is known as
+
+(a) House-clearing
+(b) Storage-cleaning
+(c) House-keeping [Answer]
+(d) Storage-clearing
+(e) Data-cleaning
+
+
+Question 328
+Operator's manual usually cotains one of the following information
+
+(a) Statement of the problem
+(b) Objective of the problem
+(c) Program oject code
+(d) Messages that may be printed on the VDU and their meanings [Answer]
+
+
+Question 329
+Oval shaped symbol in flowchart is for expressing
+
+(a) Processing
+(b) Calculations
+(c) Terminal Point [Answer]
+(d) Decision
+
+
+Question 330
+Oval shaped symbol in flowchart is used for expressing
+
+(a) Processing
+(b) Calculations
+(c) Terminal Point [Answer]
+(d) Decision
+
+
+Question 331
+Peripheral devices is made up of the
+
+(a) Input devices and the output devices [Answer]
+(b) Input devices, processor and output devices
+(c) Monitor, keyboard, printer and mouse
+(d) Input devices, printer and output devices
+
+
+Question 332
+Printers that use electro-static chemicals are examples of
+
+(a) Non-impact printers [Answer]
+(b) Electrochemical printers
+(c) Matrix-T type printers
+(d) Chemical-induced, electrostatic printers
+
+
+Question 333
+Program designed to convert the general-purpose computer into a tool for specific task is called
+
+(a) Operating System
+(b) Application program [Answer]
+(c) System software
+(d) Debuggers
+
+
+Question 334
+Programs developed by users to solve their specific data processing problems is termed
+
+(a) Operating program
+(b) Application program [Answer]
+(c) Manufacturer program
+(d) Specific program
+
+
+Question 335
+Programs that attach themselves to the operating system in a harmful way are known as
+
+(a) Firewall
+(b) Worms
+(c) Spywares [Answer]
+(d) Virus
+
+
+Question 336
+READ-DATA Statement is used to
+
+(a) Assign one value to a data
+(b) Assign data to multiple variable at a time [Answer]
+(c) input instuction
+(d) output information
+
+
+Question 337
+Relational Operators include
+
+(a) Equality
+(b) Greater than
+(c) Less than
+(d) All of the above [Answer]
+
+
+Question 338
+ROM means
+
+(a) Read Only Moment
+(b) Read on Memory
+(c) Read Only Memory [Answer]
+(d) Read Often Memory
+
+
+Question 339
+Routers are network devices that
+
+(a) Forward data packets between networks [Answer]
+(b) Use data packets between networks
+(c) Remove redundant data
+(d) Break the links between networks
+
+
+Question 340
+Routers are network devices that
+
+(a) Forward data packets between networks [Answer]
+(b) Use data packets between networks
+(c) Remove redundant data
+(d) Break the links between networks
+
+
+Question 341
+Scandisk is an example of
+
+(a) Utility software [Answer]
+(b) System software
+(c) Application software
+(d) Operating system package
+
+
+Question 342
+Second-Generation of computers evolved between
+
+(a) 1937 -1953
+(b) 1954-1962 [Answer]
+(c) 1934 - 1968
+(d) 1923 - 1957
+
+
+Question 343
+Set of programs that perform file copy is known as
+
+(a) System files copy programs
+(b) System files programs
+(c) Utility programs [Answer]
+(d) Latent programs
+
+
+Question 344
+Sets of components that restricts access between protected network and internet is called _____?
+
+(a) Username
+(b) Authorization
+(c) Firewall [Answer]
+(d) Password
+
+
+Question 345
+Signed numbers can be represented in
+
+(a) 4 ways
+(b) 3 ways [Answer]
+(c) 2 ways
+(d) 5 ways
+
+
+Question 346
+Small-Scale Integration of Circuits is made up of
+
+(a) 100 devices per circuit
+(b) 10 devices per circuit [Answer]
+(c) 1000 devices per circuit
+(d) 1 device per circuit
+
+
+Question 347
+SOLOMON computer was developed by
+
+(a) Westinghouse Corporation [Answer]
+(b) Solomon Analog Corporation
+(c) Solomon Wislow Corporation
+(d) Solomon Gates Corporation
+
+
+Question 348
+Spywares attach themselves to the
+
+(a) Boot Files
+(b) Operating System [Answer]
+(c) BIOS
+(d) Display Unit
+
+
+Question 349
+Stages of software/program development include the following except
+
+(a) planning the solution
+(b) understanding the problem
+(c) coding
+(d) marketing the solution [Answer]
+
+
+Question 350
+String constants and variables cannot be used in arithmetic expressions
+
+(a) true [Answer]
+(b) false
+(c) i don't know
+(d) none of the options is correct
+
+
+Question 351
+Super-Q is an example of
+
+(a) Spreadsheet [Answer]
+(b) Word processor
+(c) Game package
+(d) Database package
+(e) Output function
+
+
+Question 352
+SuperCalc is an example of
+
+(a) Calculation Application
+(b) Spreadsheet [Answer]
+(c) Super Computer
+(d) Operating System
+
+
+Question 353
+A system that requires complex processor scheduling algorithms to optimize the amount of parallelism achieved is known as
+
+(a) Networked system
+(b) Distributed System [Answer]
+(c) Multi-sharing System
+(d) Resource Sharing System
+(e) Time-sharing System
+
+
+Question 354
+Systems programs are written for direct execution on
+
+(a) Computer software packages
+(b) Computer hardware [Answer]
+(c) Compilers
+(d) Translators
+(e) Interpreters
+
+
+Question 355
+The  the four basic types of instructions are
+
+(a) (REM, PRINT, GoTo and END)
+(b) (Input, Output, Goto, and Branching)
+(c) (Input/Output, Arithmetic, Branching, and Logic) [Answer]
+(d) All of the above
+
+
+Question 356
+The 'A' character in the BASIC programming language stands for
+
+(a) algorithm
+(b) all-purpose [Answer]
+(c) all-propose
+(d) almighty
+
+
+Question 357
+The 'B' character in the BASIC programming language stands for
+
+(a) begin
+(b) beginner
+(c) beginners [Answer]
+(d) begins
+
+
+Question 358
+The 'C' character in the BASIC programming language stands for
+
+(a) Condition
+(b) Code [Answer]
+(c) Codes
+(d) Collate
+
+
+Question 359
+The 'I' character in the BASIC programming language stands for
+
+(a) instruct
+(b) instruction [Answer]
+(c) instrument
+(d) interact
+
+
+Question 360
+The 'S' character in the BASIC programming language stands for
+
+(a) symbol
+(b) symbolise
+(c) symbolic [Answer]
+(d) sign
+
+
+Question 361
+The "PRINT USING" statement in BASIC programming allows printed output to be ......
+
+(a) displayed
+(b) outputted
+(c) formatted [Answer]
+(d) aligned
+
+
+Question 362
+The attribute of a program that relates to optimal utilization of resources is
+
+(a) Accuracy
+(b) Efficiency [Answer]
+(c) Effectiveness
+(d) Robustness
+
+
+Question 363
+The banking software used in Zenith Bank is an example of
+
+(a) User defined Software [Answer]
+(b) Financial Application
+(c) Business Package
+(d) Financial Management Suite
+
+
+Question 364
+The BASIC command END is used for
+
+(a) remarks
+(b) termination [Answer]
+(c) input
+(d) output
+
+
+Question 365
+The BASIC command INPUT is used for
+
+(a) reading data from the keyboard [Answer]
+(b) reading data from a file
+(c) reading data from the internet
+(d) reading data from the mouse
+
+
+Question 366
+The BASIC command LET is used for
+
+(a) input
+(b) assignment [Answer]
+(c) output
+(d) termination
+
+
+Question 367
+The BASIC command PRINT is used for
+
+(a) termination
+(b) output [Answer]
+(c) input
+(d) remarks
+
+
+Question 368
+The BASIC command REM is used for
+
+(a) remarks [Answer]
+(b) input
+(c) output
+(d) termination
+
+
+Question 369
+The basic contents stored in the computer memory are
+
+(a) Files and Folders
+(b) Instruction and data [Answer]
+(c) Programs and Codes
+(d) Programs and Instructions
+
+
+Question 370
+The BASIC programming language can handle arithmetic expressions involving up to .... arithmetic operators
+
+(a) 7
+(b) 6
+(c) 5 [Answer]
+(d) 4
+
+
+Question 371
+The basic resources of a computer system are provided by its
+
+(a) Hardware, software and data [Answer]
+(b) Keyboard and mouse
+(c) Users, Data and Devices
+(d) Computer software packages
+
+
+Question 372
+The basic unit of a memory location is
+
+(a) 1 Byte [Answer]
+(b) 8 Bytes
+(c) 1 Bit
+(d) 1024 Bits
+
+
+Question 373
+The brain of a computer is
+
+(a) CPU [Answer]
+(b) CD
+(c) Floppy disc
+(d) Megabyte
+
+
+Question 374
+The CDC 7600 was considered to be the
+
+(a) Second scalar processor
+(b) Second vector processor
+(c) first vector processor [Answer]
+(d) first scalar processor
+
+
+Question 375
+The characteristics of a program that handles invalid data is
+
+(a) Reliability
+(b) Robustness [Answer]
+(c) Accuracy
+(d) Efficiency
+
+
+Question 376
+The compiler translates a program source code into
+
+(a) result code
+(b) object code [Answer]
+(c) algorithm code
+(d) pseudo code
+
+
+Question 377
+The computing system is made up of
+
+(a) Hardware, Software and Users
+(b) Software, Humanware and the computing environment
+(c) Hardware, Software, Humanware and the users
+(d) Hardware, Software, Users and the computing environment [Answer]
+
+
+Question 378
+The correct form of expressing the formula that relates velocity, time and acceleration in an algorithm is
+
+(a) v=u+at
+(b) u+at= v
+(c) v= u + a*t [Answer]
+(d) u+a*t= v
+
+
+Question 379
+The correct form of expressing the formula to find one of the roots of a quadratic equation in an algorithm is
+
+(a) b2-4ac/2a
+(b) (b2-4ac)/2a
+(c) b*b-4*a*c/2*a
+(d) (b*b-4*a*c)/2*a [Answer]
+
+
+Question 380
+The correct form of the equation U+V(V)/W = X in an algorithm is
+
+(a) U+V2/W = X
+(b) X= U+V2/W
+(c) U+V*V/W=X
+(d) X= U+V*V/W [Answer]
+
+
+Question 381
+The daily processing of corrections to customer accounts best exemplifies the processing mode of
+
+(a) batch processing [Answer]
+(b) real-time processing
+(c) time-sharing
+(d) off-line processing
+
+
+Question 382
+The data item involved in computer operation is termed
+
+(a) operator
+(b) operand [Answer]
+(c) expression
+(d) output
+
+
+Question 383
+The denominator of an arithmetic expression can be zero
+
+(a) true
+(b) false [Answer]
+(c) i don't know
+(d) none of the options is correct
+
+
+Question 384
+The Device which converts instructions into the binary form that is understood by the computer and supply to the computer is known as__________
+
+(a) Input [Answer]
+(b) Output
+(c) Automatic
+(d) Memory
+
+
+Question 385
+The difference between memory and storage is that the memory is__________ and storage is_________
+
+(a) Temporary, permanent [Answer]
+(b) Permanent, temporary
+(c) Slow, fast
+(d) None of the above
+
+
+Question 386
+The earliest form of programming language is
+
+(a) Assembly language
+(b) machine language [Answer]
+(c) high level language
+(d) very low level language
+
+
+Question 387
+The equivalent of a source program in machine language is called
+
+(a) Object program [Answer]
+(b) Source code
+(c) Source program
+(d) Object code
+(e) High Level program
+
+
+Question 388
+The errors that can be pointed out by the compiler are
+
+(a) Syntax errors [Answer]
+(b) Semantic errors
+(c) Logical errors
+(d) None of the above
+
+
+Question 389
+The first generation of Computers was between
+
+(a) 1924 - 1933
+(b) 1918 - 1929
+(c) 1909 - 1933
+(d) 1937 - 1953 [Answer]
+
+
+Question 390
+The first stage in Programming is
+
+(a) Problem Creation
+(b) Understanding the Problem [Answer]
+(c) Flowchart Designing
+(d) Solution Planning
+
+
+Question 391
+The following are application softwares except:
+
+(a) Word processor
+(b) Antivirus [Answer]
+(c) Spreadsheet
+(d) Statistical Packages
+
+
+Question 392
+The following are categories of Computer programming languages except
+
+(a) BASIC language [Answer]
+(b) High level symbolic language
+(c) Machine language
+(d) Assembly language
+
+
+Question 393
+The following are computer programming tools except
+
+(a) flowchart
+(b) computer codes [Answer]
+(c) algorithm
+(d) decision table
+
+
+Question 394
+The following are examples of existing and popular high level programming languages EXCEPT
+
+(a) INTEL 8086 [Answer]
+(b) BASIC
+(c) FORTRAN
+(d) PASCAL
+
+
+Question 395
+The following are keywords in the BASIC programming language EXCEPT
+
+(a) REM
+(b) WRITE [Answer]
+(c) INPUT
+(d) READ
+
+
+Question 396
+The following are library functions in BASIC except
+
+(a) sin
+(b) log
+(c) sqr
+(d) sqrt [Answer]
+
+
+Question 397
+The following are system resources except
+
+(a) CPU time
+(b) Memory space
+(c) File storage space
+(d) I/O devices
+(e) CPU space [Answer]
+
+
+Question 398
+The following are the basic concepts important to people in the protection of information except _____?
+
+(a) Authentication
+(b) Authorization
+(c) Non-repudiation
+(d) Availability [Answer]
+
+
+Question 399
+The following are the characteristics of a Special-Purpose computer except
+
+(a) Very cheap
+(b) Limited in use
+(c) Flexible [Answer]
+(d) Less complex
+
+
+Question 400
+The fourth Generation Computer was between
+
+(a) 1972 - 1984 [Answer]
+(b) 1970 - 1981
+(c) 1971 - 1986
+(d) 1969 - 1988
+
+
+Question 401
+The fourth generation of computers span between
+
+(a) 1972-1984 [Answer]
+(b) 1975-1988
+(c) 1965-1990
+(d) 1962-1992
+
+
+Question 402
+The full meaning of BGP in networking is
+
+(a) Border Gateway Protocol [Answer]
+(b) Basic Gateway Practices
+(c) Boundary Gateway Protocol
+(d) Bank Gateway Protocol
+
+
+Question 403
+The full meaning of MICR is
+
+(a) Magnetic Integrated Character Register
+(b) Memory Ink Code Recognition
+(c) Memory Integrated Coded Register
+(d) Magnetic Ink Character Recognition [Answer]
+
+
+Question 404
+The functional part of a general purpose computer is made up of A. 3 units
+
+(a) 5 units
+(b) 2 units
+(c) 3 units [Answer]
+(d) 4 units
+
+
+Question 405
+The Gate representation of the Logical Operations are
+
+(a) (NOT, THEN, NAND, NNOR)
+(b) (IF,WHILE, OR, NOT, NAND and NOR)
+(c) (AND, OR, NOT, NAND and NOR) [Answer]
+(d) All of the Above
+
+
+Question 406
+The general structure of a standard BASIC language contains the following EXCEPT:
+
+(a) at least one comment
+(b) an end  instruction
+(c) addition of numbers [Answer]
+(d) an instruction to take input or print an output
+
+
+Question 407
+The I/O system consists of
+
+(a) A buffer caching system
+(b) A general device driver code
+(c) Drivers for specific hardware devices
+(d) All of the above [Answer]
+
+
+Question 408
+The individual within the operations group who ordinarily uses a variety of keyboard devices, is the
+
+(a) Data Clerk
+(b) Keypunch Operator
+(c) Data Entry Clerk [Answer]
+(d) Computer Operator
+
+
+Question 409
+The initial program written in a language different from machine language is called
+
+(a) Object program
+(b) Source code
+(c) Source program [Answer]
+(d) Object code
+(e) Assembly program
+
+
+Question 410
+The internal storage section of a memory is made up of several small storage locations known as
+
+(a) ROM
+(b) Blocks
+(c) Cells [Answer]
+(d) RAM
+
+
+Question 411
+The keyword LET in BASIC programming is known to be a/an:
+
+(a) input instruction [Answer]
+(b) output instruction
+(c) documentation instruction
+(d) compiling instruction
+
+
+Question 412
+The keyword PRINT in BASIC programming is known to be a/an:
+
+(a) input instruction
+(b) output instruction [Answer]
+(c) documentation instruction
+(d) compiling instruction
+
+
+Question 413
+The keyword used to terminate an algorithm is
+
+(a) stop [Answer]
+(b) end
+(c) finish
+(d) halt
+
+
+Question 414
+The kind of software that makes a Television remote control to work is called
+
+(a) Firmware [Answer]
+(b) Control Software
+(c) Micro Software
+(d) TVWare
+
+
+Question 415
+The language that the computer can understand and execute is called ______
+
+(a) Machine language [Answer]
+(b) Application software
+(c) System program
+(d) None of the above
+
+
+Question 416
+The last stage in programming is
+
+(a) Instumentation
+(b) Testing
+(c) Documentation [Answer]
+(d) Debugging
+
+
+Question 417
+The Machine Language equivalent of a program written in a high level language is called
+
+(a) Object Source
+(b) Machine Code
+(c) Object Code [Answer]
+(d) Machine Program
+
+
+Question 418
+The main aim of a computer network is to allow _____?
+
+(a) Sharing of computers
+(b) Sharing of resources [Answer]
+(c) Sharing of printers
+(d) Sharing of networks
+
+
+Question 419
+The major difference in the names of strings and integers in BASIC is the use of which special character?
+
+(a) Pound Sterling
+(b) Dollar [Answer]
+(c) Ampersand
+(d) Asterisk
+
+
+Question 420
+The maximum capacity of a magnetic tape is
+
+(a) 180 million characters [Answer]
+(b) 270 million characters
+(c) 80 million characters
+(d) 360 million characters
+
+
+Question 421
+The maximum number ofarrows coming out of a decision making symbol in a flowchart is
+
+(a) one
+(b) two [Answer]
+(c) three
+(d) four
+
+
+Question 422
+The Monitor and Printer are examples of
+
+(a) Output Unit [Answer]
+(b) Display Unit
+(c) Visual Display Unit
+(d) Printing Unit
+
+
+Question 423
+The most popular assembly language is
+
+(a) microsoft
+(b) unix
+(c) ibm [Answer]
+(d) intel
+
+
+Question 424
+The most widely used commercial programming computer language is
+
+(a) BASIC
+(b) COBOL [Answer]
+(c) FORTRAN
+(d) PASCAL
+
+
+Question 425
+The names given to all forms of destuctive program are
+
+(a) trojan horse and virus
+(b) logic bomb and spyware
+(c) malware and AVG
+(d) viruses and malwares [Answer]
+
+
+Question 426
+The NOT is a
+
+(a) Logical Negation
+(b) Inverter
+(c) All of the above [Answer]
+(d) None of the above
+
+
+Question 427
+The NOT is not a
+
+(a) Logical Negation
+(b) Inverter
+(c) All of the above
+(d) None of the above [Answer]
+
+
+Question 428
+The number of inputs in an algorithm to find the root of a quadratic equation is
+
+(a) one
+(b) two
+(c) three [Answer]
+(d) four
+
+
+Question 429
+The operands in an instruction may consist of the actual data
+
+(a) Yes [Answer]
+(b) No
+(c) All of the above
+(d) None of the above
+
+
+Question 430
+The operation code in an instruction may consist of the actual data
+
+(a) Yes
+(b) No [Answer]
+(c) All of the above
+(d) None of the above
+
+
+Question 431
+The operation code in assembly language includes one of the following:
+
+(a) letters [Answer]
+(b) binary numbers
+(c) hexadecimal numbers
+(d) decimal numbers
+
+
+Question 432
+The operator manual during program documentation should contain the following EXCEPT
+
+(a) instruction about starting, running and terminating the program
+(b) message that may be printed on the VDU and their meanings
+(c) setup and take down instruction for files
+(d) information on manual walkthrough during program development [Answer]
+
+
+Question 433
+The order of Precedence of logical operations is not
+
+(a) NOT, OR, NOR
+(b) OR, AND, NOT
+(c) NOT, OR, NOT
+(d) All of the above [Answer]
+
+
+Question 434
+The order of Precedence of logical operations is
+
+(a) NOT, OR, NOR
+(b) OR, AND, NOT
+(c) NOT, AND, OR [Answer]
+(d) NAND, NOR NOT
+
+
+Question 435
+The part of computer instruction that tells the computer what to do is
+
+(a) Expression code
+(b) operation code [Answer]
+(c) operand code
+(d) instruction code
+
+
+Question 436
+The parts of a computer are best identified as
+
+(a) Hardware and Software
+(b) Users, Data and Devices
+(c) Hardware, Programs and Software
+(d) Humanware, Software and Hardware [Answer]
+(e) Desktop, CPU and Keyboard
+
+
+Question 437
+The payroll package used in a large Company is an example of
+
+(a) User defined Software [Answer]
+(b) Financial Application
+(c) Business Package
+(d) Financial Management Suite
+
+
+Question 438
+The physical components of a computer are called
+
+(a) Software
+(b) Firmware
+(c) Hardware [Answer]
+(d) Physicalware
+
+
+Question 439
+The planning solution step of the program documentation includes the following EXCEPT
+
+(a) flowchart, pseudo code or decision tables
+(b) program narrative
+(c) description of input and file formats
+(d) A clear statement of problem [Answer]
+
+
+Question 440
+The primary goal of an operating system is
+
+(a) Reliability
+(b) Efficiency
+(c) Convenience [Answer]
+(d) Speed
+
+
+Question 441
+The primary memory of the computer is made up of the
+
+(a) ROM, Primary storage and CACHE
+(b) RAM and Primary devices memory
+(c) CACHE, ROM and RAM
+(d) ROM and RAM [Answer]
+(e) PROM and RAM
+
+
+Question 442
+The problem definition step of program documentation includes the following EXCEPT
+
+(a) a clear statement of problem
+(b) objective of the program
+(c) person authorising the program request [Answer]
+(d) program narrative
+
+
+Question 443
+The process of converting analog signals into digital signals so they can be processed by a receiving computer is referred to as:
+
+(a) modulation
+(b) demodulation
+(c) synchronizing
+(d) digitising [Answer]
+
+
+Question 444
+The processing unit is made up of
+
+(a) Control Unit, Input Unit, Output Unit and the Main Memory
+(b) Arithmetic Unit, Logical Unit and the Main Memory
+(c) ALU, Control Unit and the Main Memory [Answer]
+(d) Input Unit, Control Unit, Output Unit and the Main Memory
+
+
+Question 445
+The program that acts as an interface between a user of a computer and the computer   hardware is known as
+
+(a) User Interface Allocator
+(b) Interface Management Program
+(c) Operating System [Answer]
+(d) User Interface Manager
+
+
+Question 446
+The programmer can solve user made problems with
+
+(a) Word Processor [Answer]
+(b) Windows 7 OS
+(c) Scandisk
+(d) Ubuntu OS
+
+
+Question 447
+The programming language that makes use of mnemonics is
+
+(a) machine language
+(b) Assembly language [Answer]
+(c) high level language
+(d) very low level language
+
+
+Question 448
+The reach of a Personal Area Network is within
+
+(a) 20 to 30 feets [Answer]
+(b) 25 to 30 feets
+(c) 20 to 25 feets
+(d) 30 to 35 feets
+
+
+Question 449
+The READ command in BASIC is usually used in conjunction with which other command?
+
+(a) DATA [Answer]
+(b) BLOCK
+(c) INPUT
+(d) LINE
+
+
+Question 450
+The relationship between voltage, current and resistance is correctly represented in an algorithm as
+
+(a) V=IR
+(b) IR=V
+(c) V= I*R [Answer]
+(d) I*R=V
+
+
+Question 451
+The retrieval of information from the computer is defined as
+
+(a) collection of data
+(b) data retrieval operations
+(c) output [Answer]
+(d) data output collection
+
+
+Question 452
+The rules governing arithmetic expressions in BASIC does NOT include
+
+(a) two operations can appear together [Answer]
+(b) string constants and string variables should not be used in arithmetic expressions
+(c) brackets when used must be in pairs
+(d) denominator of an expression should not be zero
+
+
+Question 453
+The SOLOMON Computer was developed by
+
+(a) Microsoft
+(b) Dell
+(c) Westinghouse Corporation [Answer]
+(d) Toshiba
+
+
+Question 454
+The stage in programming at which flowcharts are converted into specific language is called
+
+(a) Translation
+(b) Flowcharting
+(c) Coding [Answer]
+(d) Debugging
+
+
+Question 455
+The suits of programs that facilitate the optimal use of the hardware systems and/or provide a suitable environment for the writing, editing, debugging, testing and running of user programs is generally referred to as
+
+(a) Hardware Manager Software
+(b) Application Software
+(c) System Software [Answer]
+(d) Utility Software
+
+
+Question 456
+The switching time for discrete diode is approximately:
+
+(a) 0.63 microseconds
+(b) 0.52 microseconds
+(c) 0.30 microseconds [Answer]
+(d) 0.46 microseconds
+
+
+Question 457
+The three types of operating systems are
+
+(a) Windows XP, Windows Vista and Windows 7 Operating Systems
+(b) Linux, Apple Macintosh and Microsoft Windows Operating Systems
+(c) System, Application and Utility Operating Systems
+(d) Batch, Time-shared and Real-time Operating Systems [Answer]
+
+
+Question 458
+The time from submission of the job until execution is complete is known as
+
+(a) Turnaround time [Answer]
+(b) Job completion time
+(c) Job cycle time
+(d) Job execution time
+(e) Turncycle time
+
+
+Question 459
+The two major methods of representing real numbers are
+
+(a) Fixed-Point and Variable Point
+(b) Fixed-Point and Floating Point [Answer]
+(c) Floating Point and Variable Point
+(d) None of the Above
+
+
+Question 460
+The two popular standards for character representation are
+
+(a) ACSII and EBCDIC
+(b) ASCII and EDCBIC
+(c) ASCII and EBCDIC [Answer]
+(d) ACSII and EDCBIC
+
+
+Question 461
+The type of topology that transmit data on equal basis using tokens is called _____?
+
+(a) Line
+(b) Star
+(c) Ring [Answer]
+(d) Bus
+
+
+Question 462
+The unit of work in a system is known as
+
+(a) Power
+(b) Process [Answer]
+(c) Program
+(d) Energy
+(e) Word per Minute (WPM)
+
+
+Question 463
+The usefulness of the computer depends on
+
+(a) Speed and accuracy
+(b) Portability
+(c) Size
+(d) The programs that are written to manipulate it [Answer]
+
+
+Question 464
+The user has no interaction with the job during its processing in a
+
+(a) Job-Control System
+(b) Real-time System
+(c) Time-Sharing System
+(d) Batch processing System [Answer]
+
+
+Question 465
+There are -------- ways of representing characters in the memory of a Computer System
+
+(a) 2 [Answer]
+(b) 3
+(c) 4
+(d) 5
+
+
+Question 466
+There exists ... types of branch instructions
+
+(a) 5
+(b) 4
+(c) 3
+(d) 2 [Answer]
+
+
+Question 467
+These are examples of basic hardware components used in networking except _____?
+
+(a) Ring [Answer]
+(b) Routers
+(c) Switches
+(d) Bridges
+
+
+Question 468
+These are the four basic types of instructions
+
+(a) (Input/Output, Arithmetic, Branching, and Logic) [Answer]
+(b) (Input, Output, Goto, and Branching)
+(c) (REM, PRINT, GoTo and END)
+(d) All of the above
+
+
+Question 469
+These are the types of signals transmitted in a wireless network except _____?
+
+(a) Visible light
+(b) X-rays
+(c) Gamma rays
+(d) Alpha rays [Answer]
+
+
+Question 470
+These are what can be connected to a computer network except _____?
+
+(a) Desktop
+(b) Laptop
+(c) Body [Answer]
+(d) Scanner
+
+
+Question 471
+Third generation computers
+
+(a) Were the first to use built-in error detecting device
+(b) Used transistors instead of vaccum tubes [Answer]
+(c) Were the first to use neural network
+(d) None of the above
+
+
+Question 472
+This is a document produced at the problem definition stage
+
+(a) Source of request of the program [Answer]
+(b) Program narrative
+(c) Program source code sheet
+(d) Operator manual
+
+
+Question 473
+This is a method of program testing
+
+(a) Use of Storage website
+(b) Use of Storage dump [Answer]
+(c) Use of Storage bean
+(d) none of the above
+
+
+Question 474
+This is a stage in program development
+
+(a) Accuracy
+(b) Translation [Answer]
+(c) Robustness
+(d) Efficiency
+
+
+Question 475
+This is a type of instruction in computer programming
+
+(a) logic instruction [Answer]
+(b) Boolean instruction
+(c) linear instruction
+(d) non-linear instruction
+
+
+Question 476
+This is a typical logic operation.
+
+(a) shift [Answer]
+(b) add
+(c) square root
+(d) exponential
+
+
+Question 477
+This is a valid numeric constant in BASIC
+
+(a) AB45
+(b) -67.5 [Answer]
+(c) 26$
+(d) 5$7.7
+
+
+Question 478
+This is an example of Keyword in BASIC
+
+(a) Algorithm
+(b) Data [Answer]
+(c) Information
+(d) Flowchart
+
+
+Question 479
+This is an example of logic operation
+
+(a) Begin
+(b) Compare [Answer]
+(c) Add
+(d) Divide
+
+
+Question 480
+This is an example of program control statement
+
+(a) Rem statement
+(b) If...then statement [Answer]
+(c) Print Statement
+(d) Data statement
+
+
+Question 481
+This is an example of string variable in BASIC
+
+(a) Sum
+(b) BKG$ [Answer]
+(c) "CSE DEPT"
+(d) "162"
+
+
+Question 482
+This is an example of unconditional branching statement in BASIC:
+
+(a) IF (K &amp;gt; 10) THEN 60
+(b) GOTO 80 [Answer]
+(c) IF (PI *R = 16) GOTO 80
+(d) FOR (I = 1 TO 100 ) GOTO 20
+
+
+Question 483
+This is NOT a method of testing program correctness.
+
+(a) Manual walk through
+(b) Use of tracing routines
+(c) Program documentation
+(d) Problem definition [Answer]
+
+
+Question 484
+This is NOT an advantage of program documentation.
+
+(a) it provides all necessary information for anyone who comes in contact with the program
+(b) it helps users to determine the program's purpose
+(c) it simplifies program maintenance
+(d) it provides the storage dumps for the program [Answer]
+
+
+Question 485
+This is one of the guidelines for drawing flowcharts.
+
+(a) flow charts are read from top to bottom [Answer]
+(b) flowcharts are read from left to right
+(c) flowcharts are read from bottom to top
+(d) flow charts are read from right to left
+
+
+Question 486
+Three factor authentication uses
+
+(a) something on your body [Answer]
+(b) name and password
+(c) something you have
+(d) all of the above
+
+
+Question 487
+TI-ASC means
+
+(a) Teaching Instruction Analytic Specific Code
+(b) Texas Instrument Advanced Scientific Computer [Answer]
+(c) Teaching Instrument Analytic Specific Code
+(d) Texas Instruction Advanced Scientific Computer
+
+
+Question 488
+TRADIC means
+
+(a) Transistor Digital Computer [Answer]
+(b) Transmission Digit Computer
+(c) Transmission Directed Computation
+(d) Transistor Digitised Computer
+
+
+Question 489
+True AND (True OR False) AND (False OR True) evaluates to
+
+(a) False
+(b) True [Answer]
+(c) All of the above
+(d) None of the above
+
+
+Question 490
+True NAND False OR False NOR True evaluates to
+
+(a) True [Answer]
+(b) Not (True)
+(c) False
+(d) None of the above
+
+
+Question 491
+Turnaround time is a characteristic of
+
+(a) Time-sharing OS
+(b) Real-time OS
+(c) Batch processing OS [Answer]
+(d) Cyclomatic Time OS
+
+
+Question 492
+Two arithmetic operators can appear together in a given expression
+
+(a) true
+(b) false [Answer]
+(c) i don't know
+(d) none of the options is correct
+
+
+Question 493
+Two common counter measures to ensure the security of computer are:
+
+(a) Firewall
+(b) Antivirus
+(c) A and B [Answer]
+(d) Peopleware
+
+
+Question 494
+Two or more networks connected using devices such as a router is called .....
+
+(a) Internetwork [Answer]
+(b) Extranet
+(c) Intranet
+(d) World Wide Web
+
+
+Question 495
+Typical data transfer rate in LAN are of the order of
+
+(a) Bits per sec [Answer]
+(b) Kilo bits per sec
+(c) Mega bits per sec
+(d) None of the above
+
+
+Question 496
+Ultraviolet light is associated with
+
+(a) Rays
+(b) RAM
+(c) ROM
+(d) EPROM [Answer]
+
+
+Question 497
+UNIVAC means
+
+(a) Universal Automation Computing
+(b) Universal Automated Computer
+(c) Universal Automatic Computer [Answer]
+(d) Unified Automated Computer
+
+
+Question 498
+UPS means
+
+(a) Unstopable Power Source
+(b) Uninterrupted Power Supplier
+(c) Uninterruptible Power Supply [Answer]
+(d) Unstoppable Power Supply
+
+
+Question 499
+UPS means
+
+(a) Unstopable Power Source
+(b) Uninterrupted Power Supplier
+(c) Uninterruptible Power Supply [Answer]
+(d) Unstoppable Power Supply
+
+
+Question 500
+Vacuum tube is to 1st generation of computers as integrated circuit is to
+
+(a) 3rd generation of computers [Answer]
+(b) 4th generation of computers
+(c) 5th generation of computers
+(d) 6th generation of computers
+
+
+Question 501
+Vacuum tube technology is a characteristic of the
+
+(a) 3rd Generation of Computers
+(b) 2nd Generation of Computers
+(c) 1st Generation of Computers [Answer]
+(d) 4th Generation of Computers
+
+
+Question 502
+VLSI is made up of
+
+(a) 1, 000, 000 devices per chip
+(b) 1, 000 devices per chip
+(c) 100, 000 devices per chip [Answer]
+(d) 10, 000 devices per chip
+
+
+Question 503
+VP Planner is an example of
+
+(a) Planning Software
+(b) Operating System
+(c) Spraedsheet [Answer]
+(d) Word Processor
+
+
+Question 504
+WAN hardware includes
+
+(a) Multiplexors and routers [Answer]
+(b) EDF
+(c) Bridger and modems
+(d) None of the above
+
+
+Question 505
+What destructive program is similar to trojan horse but has a timing device?
+
+(a) Malware
+(b) Spyware
+(c) Logic bombs [Answer]
+(d) Worms
+
+
+Question 506
+What does a Computer Process
+
+(a) Digits
+(b) Data [Answer]
+(c) Information
+(d) Binary Digits
+
+
+Question 507
+What does the symbol asterisk(*) denote?
+
+(a) addition
+(b) multiplication [Answer]
+(c) subtraction
+(d) exponentiation
+
+
+Question 508
+What does the symbol caret (^) denote?
+
+(a) addition
+(b) multiplication
+(c) subtraction
+(d) exponentiation [Answer]
+
+
+Question 509
+What is a computer network?
+
+(a) Group of interconnected computers [Answer]
+(b) Group of interconnected objects
+(c) Group of interconnected circuits
+(d) Group of interconnected lines
+
+
+Question 510
+What is a left pointing arrow used to indicate in algorithms and flowcharts?
+
+(a) assignment [Answer]
+(b) comparison
+(c) direction of flow
+(d) output
+
+
+Question 511
+What is a statement in BASIC?
+
+(a) it is an algorithmic pseudocode
+(b) an executable line of code that performs a specific action [Answer]
+(c) it is a flowchart equivalence of an algorithm
+(d) an instruction for the compiler to perform an action
+
+
+Question 512
+What is a syntax error?
+
+(a) error due to logic
+(b) error due to lexis [Answer]
+(c) error due to compiler
+(d) error due to the system
+
+
+Question 513
+What is CAN?
+
+(a) Computer Area Network
+(b) Congress Area Network
+(c) Campus Area Network [Answer]
+(d) Congregation Area Network
+
+
+Question 514
+What is the BASIC equivalence of the algebraic expression 2A+B?
+
+(a) 2(A)+B
+(b) 2(A+B)
+(c) 2*A+B [Answer]
+(d) 2*A+(B)
+
+
+Question 515
+What is the floating Point Representation of 8,260,000,000
+
+(a) 8.620 x 10 to power (10)
+(b) 0.862 x 10 to power (9)
+(c) 0.862 x 10 to power (10) [Answer]
+(d) 8.620 x 10 to power (9)
+
+
+Question 516
+What is the floating Point Representation of 8,260,000,000
+
+(a) 0.862 x 10 to power (10) [Answer]
+(b) 0.862 x 10 to power (9)
+(c) 8.620 x 10 to power (10)
+(d) 8.620 x 10 to power (9)
+
+
+Question 517
+What is the floating Point Representation of 0.0000005
+
+(a) 0.5 x 10 to power (-7)
+(b) 0.5 x 10 to power (-6) [Answer]
+(c) 5.0 x 10 to power (-7)
+(d) 5.0 x 10 to power (-6)
+
+
+Question 518
+What is the floating Point Representation of 0.0000005
+
+(a) 0.5 x 10 to power (-6) [Answer]
+(b) 0.5 x 10 to power (-7)
+(c) 5.0 x 10 to power (-7)
+(d) 5.0 x 10 to power (-6)
+
+
+Question 519
+What is the full meaning of BASIC?
+
+(a) Basic All-purpose System Instruction Code
+(b) Beginners' All-purpose Scientific Instruction Code
+(c) Beginners' All-purpose Symbolic Instruction Code [Answer]
+(d) Basic All-purpose Scientific Instruction Character
+
+
+Question 520
+What is the general name for all programs that are harmful to the Computer System
+
+(a) Virus
+(b) Malware [Answer]
+(c) Worms
+(d) Trojan Horse
+
+
+Question 521
+What is the one's complement representation of 1011
+
+(a) 1011
+(b) 0100
+(c) 0011
+(d) 0100 [Answer]
+
+
+Question 522
+What is the one's complement representation of 1100
+
+(a) 1011
+(b) 0100
+(c) 0011 [Answer]
+(d) 0100
+
+
+Question 523
+What is the purpose of testing during program development?
+
+(a) To check whether the program is completed
+(b) To check whether the program is long
+(c) To check whether the program is consistently correct
+(d) To check the variables in the program
+
+
+Question 524
+What is the Scientific Representation of 8,260,000,000
+
+(a) 0.862 x 10 to power (10)
+(b) 0.862 x 10 to power (9)
+(c) 8.620 x 10 to power (10)
+(d) 8.620 x 10 to power (9) [Answer]
+
+
+Question 525
+What is the Scientific Representation of 0.0000005
+
+(a) 0.5 x 10 to power (-6)
+(b) 0.5 x 10 to power (-7)
+(c) 5.0 x 10 to power (-7) [Answer]
+(d) 5.0 x 10 to power (-6)
+
+
+Question 526
+What is the symbol asterisk (*) used to denote in BASIC?
+
+(a) multiplication [Answer]
+(b) exponentiation
+(c) logarithm
+(d) floating point
+
+
+Question 527
+What is the symbol caret (^) used to denote in BASIC?
+
+(a) multiplication
+(b) exponentiation [Answer]
+(c) logarithm
+(d) base two
+
+
+Question 528
+What is the two's complement representation of 1101
+
+(a) 1011
+(b) 0100
+(c) 0011 [Answer]
+(d) 0100
+
+
+Question 529
+What is the two's complement representation of 1100
+
+(a) 1011
+(b) 0100 [Answer]
+(c) 0011
+(d) 0100
+
+
+Question 530
+What kind of network can be wired with buses such as USB and firewire?
+
+(a) LAN
+(b) MAN
+(c) WAN
+(d) PAN [Answer]
+
+
+Question 531
+What kind of topology requires a tap to connect to its cable?
+
+(a) Ring
+(b) Star
+(c) Mesh
+(d) Bus [Answer]
+
+
+Question 532
+What kind of transmisson penetrate solid objects?
+
+(a) Wireless [Answer]
+(b) Wired
+(c) Star
+(d) Client-server
+
+
+Question 533
+What protects computer from viruses and other destructive programs?
+
+(a) Biometrics
+(b) Antivirus [Answer]
+(c) Hackers
+(d) Malware
+
+
+Question 534
+What type of network covers a broad geographical area?
+
+(a) WAN [Answer]
+(b) LAN
+(c) CAN
+(d) MAN
+
+
+Question 535
+What type of topology has computers tied to a central computer called server?
+
+(a) Star [Answer]
+(b) Bus
+(c) Ring
+(d) Hub
+
+
+Question 536
+What will be displayed on the screen given the instruction: PRINT "The area is "; X"cm sq."?
+
+(a) Xcm sq.
+(b) X
+(c) The area is Xcm sq. [Answer]
+(d) The area is X.
+
+
+Question 537
+What year was C Language developed?
+
+(a) 1994
+(b) 1972 [Answer]
+(c) 1984
+(d) 1990
+
+
+Question 538
+When a READ keyword is used, which other BASIC keyword must necessarily accompany it for execution?
+
+(a) INPUT
+(b) READ
+(c) LET
+(d) DATA [Answer]
+
+
+Question 539
+When does a syntax error occur?
+
+(a) at run-time
+(b) at program time
+(c) at typing time
+(d) at compile time [Answer]
+
+
+Question 540
+When drawing flowchart,K.E.=1/2 x mass xVelocity Xvelocity will be put in:
+
+(a) A Square box
+(b) A rectangular box [Answer]
+(c) A parallelogram box
+(d) A circular box
+
+
+Question 541
+When the computer network is classified based on transmission medium, we have
+
+(a) wired and wireless network [Answer]
+(b) wired and optical fibre
+(c) wireless and ethernet
+(d) LAN and WAN
+
+
+Question 542
+Which among the following are methods for representing real numbers
+
+(a) Fixed-Point and Variable Point
+(b) Fixed-Point and Floating Point [Answer]
+(c) Floating Point and Variable Point
+(d) None of the Above
+
+
+Question 543
+Which bit represents the parity bit?
+
+(a) Least Significant Bit
+(b) Middle Significant Bit
+(c) Center Significant Bit
+(d) Most Significant Bit [Answer]
+
+
+Question 544
+Which City was invaded with the Trojan Horse
+
+(a) Rome
+(b) Troy [Answer]
+(c) Athens
+(d) Capua
+
+
+Question 545
+Which command is used for unconditional transfer of control from one line to any other line in BASIC?
+
+(a) if ...then
+(b) go to [Answer]
+(c) if ... then ... else
+(d) for ... to
+
+
+Question 546
+Which company produced Norton Anti-Virus
+
+(a) Microsoft
+(b) Oracle
+(c) Network Associates
+(d) Symantec [Answer]
+
+
+Question 547
+Which dangerous Program hides within other harmless programs
+
+(a) Trojan Horse [Answer]
+(b) Logic Bomb
+(c) Virus
+(d) Spyware
+
+
+Question 548
+Which destructive program usually spreads over network connections
+
+(a) Worms [Answer]
+(b) Viruses
+(c) Trojan Horses
+(d) Malwares
+
+
+Question 549
+Which is an advantage of program documentation
+
+(a) Solves problem
+(b) Simplifies program maintainance [Answer]
+(c) Dictates managerial decision
+(d) it is not relevant
+
+
+Question 550
+Which kind of authentication uses Retinal Scan
+
+(a) Biometric
+(b) Three factors [Answer]
+(c) Body Sensitive
+(d) Physical
+
+
+Question 551
+Which Language involves programming with 0's and 1's
+
+(a) Binary Language
+(b) Machine Language [Answer]
+(c) Coded Language
+(d) Leveled Lamguage
+
+
+Question 552
+Which of the following Basic statements will be put in a parallelogram box if converted to a flow chart?
+
+(a) LET A = B+c
+(b) GOTO 50
+(c) PRINT X,Y [Answer]
+(d) IF (K&amp;gt;3) THEN 45
+
+
+Question 553
+Which of the following communication modes support two-way traffic but in only one direction at a time?
+
+(a) simplex
+(b) half duplex [Answer]
+(c) three-quarters duplex
+(d) all of the above
+
+
+Question 554
+Which of the following devices can be used to directly input printed text
+
+(a) OCR [Answer]
+(b) OMR
+(c) MICR
+(d) None of the above
+
+
+Question 555
+Which of the following gives the BASIC equivalence of the algebraic expression: B^2-4AC?
+
+(a) B2-4*A*C
+(b) B^2-(4^A^C)
+(c) B^2-4*A*C [Answer]
+(d) B*B-(4AC)
+
+
+Question 556
+Which of the following holds the ROM, CPU, RAM and expansion cards
+
+(a) Hard disk
+(b) Cache memory
+(c) Mother board [Answer]
+(d) None of the above
+
+
+Question 557
+Which of the following in NOT a valid BASIC integer constant?
+
+(a) 234
+(b) 765.54
+(c) 23E2
+(d) 1234E222 [Answer]
+
+
+Question 558
+Which of the following is a necessary document in program development
+
+(a) Degree of the programmer
+(b) User mannual [Answer]
+(c) User Address
+(d) Director's Biodata
+
+
+Question 559
+Which of the following is a valid number System
+
+(a) Binary
+(b) Decimal
+(c) Octal
+(d) All of the above [Answer]
+
+
+Question 560
+Which of the following is correct?
+
+(a) Logical operations are those operations that result in either Zero or One
+(b) Logical operations are those operations that result in either True or False
+(c) Logical operations are those operations that result in either Yes or No
+(d) All of the above [Answer]
+
+
+Question 561
+Which of the following is correct?
+
+(a) Logical operations are used to decide if an expression will be True or False
+(b) Logical operations are used to decide if an expression will be  High or Low
+(c) Logical operations are used to decide if an expression will be Good or Bad
+(d) All of the above [Answer]
+
+
+Question 562
+Which of the following is not a characteristic of a computer?
+
+(a) Speed
+(b) Accuracy
+(c) Autocratic [Answer]
+(d) Flexibility
+
+
+Question 563
+Which of the following is not a high-level language?
+
+(a) BASIC
+(b) Motorola [Answer]
+(c) Cobol
+(d) Java
+
+
+Question 564
+Which of the following is not a logical operator?
+
+(a) IF [Answer]
+(b) NOT
+(c) AND
+(d) OR
+
+
+Question 565
+Which of the following is NOT a step involved in the preparation of a computer program.
+
+(a) Transcribing the instructions into machine sensible form
+(b) Debugging the program
+(c) Testing the program
+(d) Obtaining a comfortable computing environment [Answer]
+
+
+Question 566
+Which of the following is not a valid number System
+
+(a) Binary
+(b) Decimal
+(c) Octadecimal [Answer]
+(d) Octal
+
+
+Question 567
+Which of the following is NOT a version of a BASIC interpreter or compiler.
+
+(a) turbo BASIC
+(b) GW BASIC
+(c) BASICA
+(d) UNICODE BASIC [Answer]
+
+
+Question 568
+Which of the following is not an example of Operating System?
+
+(a) Windows 98
+(b) BSD Unix
+(c) Microsoft Office XP [Answer]
+(d) Red Hat Linux
+
+
+Question 569
+Which of the following is not correct about algorithm
+
+(a) It must be finite
+(b) It must be a chart [Answer]
+(c) It must take input
+(d) None of the above
+
+
+Question 570
+Which of the following is not true about an algorithm
+
+(a) must be effective
+(b) must be Precise
+(c) must be ambiguous [Answer]
+(d) must be finite
+
+
+Question 571
+Which of the following is the full meaning of ANSI?
+
+(a) African National Standards Interface
+(b) African National Standards Institute
+(c) American National Standards Institute [Answer]
+(d) American National Standards International
+
+
+Question 572
+Which of the following is the odd one out?
+
+(a) Extranet.
+(b) Ethernet. [Answer]
+(c) Intranet.
+(d) Internet.
+
+
+Question 573
+Which of the following is true about flowchart
+
+(a) Good illustration for teaching [Answer]
+(b) very cumbersome to design
+(c) Not good for learners
+(d) modification is not easy
+
+
+Question 574
+Which of the following is true about flowcharts?
+
+(a) Good illustration for teaching [Answer]
+(b) very cumbersome to design
+(c) Not good for learners
+(d) modification is not easy
+
+
+Question 575
+Which of the following memories is the most expensive:
+
+(a) CACHE [Answer]
+(b) RAM
+(c) ROM
+(d) Auxilliary
+(e) PROM
+
+
+Question 576
+Which of the following memories is volatile
+
+(a) PRAM
+(b) PROM
+(c) RAM [Answer]
+(d) EPRAM
+(e) EAPROM
+
+
+Question 577
+Which of the following might be used by a company to satisfy its growing communications needs?
+
+(a) front end processor
+(b) multiplexer
+(c) controller
+(d) all of the above [Answer]
+
+
+Question 578
+Which of the following not an example of methods developed for solving a problem during the stages of programming?
+
+(a) pseudocodes
+(b) flowcharts
+(c) algorithms
+(d) debugging [Answer]
+
+
+Question 579
+Which of the following packages is used for composition in printing press?
+
+(a) Lotus
+(b) dBase
+(c) Page Maker [Answer]
+(d) Word Perfect
+
+
+Question 580
+Which of the following performs modulation and demodulation?
+
+(a) fiber optics
+(b) satellite
+(c) coaxial cable
+(d) modem [Answer]
+
+
+Question 581
+which of the following statement is correct about Assembly language?
+
+(a) Storage addresses of the operands are expressed as a symbol [Answer]
+(b) the operands are expressed with the actual numeric data
+(c) operation code is expressed as binary numbers
+(d) operands are completely ommitted from the operation code
+
+
+Question 582
+Which of the following statements does not describe an algorithm?
+
+(a) It is set of rules for carrying out calculations either by hand or using machine
+(b) It is a sequence of computational steps that transdorm input into output
+(c) It is an abstraction of a program to be executed on a physical machine
+(d) It is an infinite step-by-step procedure to achieve a required result [Answer]
+
+
+Question 583
+Which of the following suggests the appropriate use of the READ command?
+
+(a) &amp;lt;line number&amp;gt; READ &amp;lt;list of variables&amp;gt; [Answer]
+(b) READ &amp;lt;line number&amp;gt; &amp;lt;list of variables&amp;gt;
+(c) READ &amp;lt;line number&amp;gt; &amp;lt;list of expressions&amp;gt;
+(d) &amp;lt;line number&amp;gt; &amp;lt;list of variables&amp;gt; READ
+
+
+Question 584
+Which of the following terms could be used to describe the concurrent processing of computer programs via CRTs, on one computer system?
+
+(a) Time sharing
+(b) On-line processing
+(c) Interactive processing
+(d) All of these [Answer]
+
+
+Question 585
+Which of the follwing is NOT a correct rule that must be adhered to when programming in the standard BASIC language?
+
+(a) multiple statement of instructions can appear on the same line [Answer]
+(b) each statement number is followed by a BASIC command or keyword
+(c) no two statements can have the same numbers
+(d) the statement number must be in ascending order
+
+
+Question 586
+Which of the programming language is capable of producing the most efficient program as far as storage requirement is concerned?
+
+(a) Machine language [Answer]
+(b) Assembly language
+(c) Pascal language
+(d) Very high level language
+
+
+Question 587
+Which of the programming languages allows the user to take the advantage of all the features and capabilities of the computer for which it was designed?
+
+(a) Machine language [Answer]
+(b) Assembly language
+(c) Pascal language
+(d) Very high level language
+
+
+Question 588
+Which of these allows users to specify what they require without describing the procedure to meet the requirement/
+
+(a) Machine language
+(b) Assembly language
+(c) High level language
+(d) Very high level language [Answer]
+
+
+Question 589
+Which of these directs the internal operations of a computer?
+
+(a) Application software
+(b) Visual Display Unit
+(c) System Software [Answer]
+(d) Machine language
+
+
+Question 590
+Which of these is a valid arithmetic expression in BASIC
+
+(a) A+-D
+(b) A+(-D) [Answer]
+(c) A$ + D
+(d) A +D$
+
+
+Question 591
+Which of these is a valid string constant in BASIC
+
+(a) Sum=56
+(b) "Sum =56" [Answer]
+(c) Sum=56$
+(d) 56$
+
+
+Question 592
+Which of these is an example of an antivirus?
+
+(a) Ablast
+(b) Avira [Answer]
+(c) McAfew
+(d) Liony
+
+
+Question 593
+Which of these is NOT a basic type of instruction that can be given to a computer?
+
+(a) input output instruction
+(b) arithmetic instruction
+(c) logic instruction
+(d) command instructions [Answer]
+
+
+Question 594
+Which of these is NOT a characteristic of the Fourth Generation Computer Language?
+
+(a) A software intended to help programmers to develop their application more quickly
+(b) A software intended to help programmers to develop their application more cheaply
+(c) A software that allows user to specify what they require and does the detailed procedure by which the requirements are met.
+(d) A software that allows users to exchange electronic mails and browse the internet. [Answer]
+
+
+Question 595
+Which of these is not a characteristics of a Computer
+
+(a) Speed
+(b) Automatic [Answer]
+(c) Accuracy
+(d) Storage
+
+
+Question 596
+Which of these is not a component of hardware
+
+(a) I/O
+(b) Peripherals
+(c) Main Board [Answer]
+(d) Memory
+
+
+Question 597
+Which of these is not a part of the Computing System
+
+(a) Users
+(b) Computer Network [Answer]
+(c) Computer System
+(d) Environment
+
+
+Question 598
+Which of these is not part of what information and property is protected from?
+
+(a) Natural disasters
+(b) Theft
+(c) Corruption
+(d) Host program [Answer]
+
+
+Question 599
+Which of these is not valid in BASIC
+
+(a) B/D
+(b) D/0 [Answer]
+(c) B*D
+(d) D*0
+
+
+Question 600
+Which of these is true about REM STATEMENT in BASIC language
+
+(a) It si an input statement
+(b) Helps programmer to understand the program [Answer]
+(c) It is used for looping
+(d) It gives output
+
+
+Question 601
+Which of these is valid in BASIC
+
+(a) Log(Sin)
+(b) Log(X) [Answer]
+(c) LOg  (x)
+(d) Sin Log (X)
+
+
+Question 602
+Which of these languages is less difficult to program with?
+
+(a) Machine language
+(b) Assembly language
+(c) Pascal language [Answer]
+(d) Hexadecimal language
+
+
+Question 603
+Which of these programming languages provide programming aids to programmer
+
+(a) High level language
+(b) Very high level language [Answer]
+(c) Machine language
+(d) Very low level language
+
+
+Question 604
+Which of these rules must be adhered to when programming in the standard BASIC language?
+
+(a) each statement of instruction must appear on a separate line [Answer]
+(b) a statement on one line can exceed 80 characters
+(c) a statement must not start with a statement number
+(d) two statements can have the same numbers
+
+
+Question 605
+Which of these statements is true about Algorithm
+
+(a) It is a diagram
+(b) It is a Chart
+(c) It must not be ambiguous [Answer]
+(d) It must not be effective
+
+
+Question 606
+Which of these statements is true about an Algorithm?
+
+(a) It is a diagram
+(b) It is a Chart
+(c) It must not be ambiguous [Answer]
+(d) It must not be effective
+
+
+Question 607
+Which of theses is not a characteristics of a Computer
+
+(a) Speed
+(b) Automatic [Answer]
+(c) Accuracy
+(d) Storage
+
+
+Question 608
+Which one is a valid way to assess function in BASIC?
+
+(a) SIN (A &amp;gt; D)
+(b) SIN(A &amp;lt; D)
+(c) SIN(A + D) [Answer]
+(d) SIN (A + D)
+
+
+Question 609
+which one is correct about BASIC language?
+
+(a) It is an all- time language
+(b) It is binary language
+(c) It is an all purpose language [Answer]
+(d) It is meant for scientific purposes
+
+
+Question 610
+which one is correct about logical operators
+
+(a) they are used to connect two or more relations and return an arithmetic value
+(b) they are used to connect two or more relations and return a boolean value [Answer]
+(c) they return an expression
+(d) they can connect anything
+
+
+Question 611
+Which one is correct IN BASIC?
+
+(a) FOR I = 1 TO 100 DO ... NEXT I
+(b) FOR I = 1 TO 100 ... NEXT I
+(c) FOR I = 1 TO 100 STEP 5 ... NEXT I [Answer]
+(d) FOR I = 1 TO 100 STEP I ... NEXT 5
+
+
+Question 612
+Which one is correct?
+
+(a) Debuggers are programs that locate errors in application programs [Answer]
+(b) Debuggers are programs that locate errors in system softwares
+(c) Debuggers locate errors in manufacturers programs
+(d) Debuggers converts errors in application programs
+
+
+Question 613
+Which one is not a level of programming language
+
+(a) Machine Language
+(b) High Level Language
+(c) Middle level Language [Answer]
+(d) Assembly Language
+
+
+Question 614
+Which one is not a level of programming language
+
+(a) Machine Language
+(b) High Level Language
+(c) Middle level Language [Answer]
+(d) Assembly Language
+
+
+Question 615
+Which one is valid in BASIC?
+
+(a) FOR J = 120 TO 20 DO ...STEP5
+(b) FOR J = 120 TO 20 DO ...STEP-5
+(c) FOR J = 120 TO 20 STEP -5 ... NEXT J [Answer]
+(d) FOR J = 120 TO 20 STEP 5 ... NEXT J
+
+
+Question 616
+which one of the following is NOT a characteristic of an algorithm?
+
+(a) a finite set of actions
+(b) each action in the set has a unique successor
+(c) the set of actions has a unique initial action
+(d) the set of action terminates before a solution is found [Answer]
+
+
+Question 617
+Which one of the following is not a programming language of a computer?
+
+(a) BASIC
+(b) FORTRAN
+(c) LASER [Answer]
+(d) PASCAL
+
+
+Question 618
+Which one of the following is not a computer language?
+
+(a) BASIC
+(b) COBOL
+(c) LOTUS [Answer]
+(d) FORTRAN
+
+
+Question 619
+Which one of the following languages has better operating speed?
+
+(a) Machine language [Answer]
+(b) Assembly language
+(c) Basic language
+(d) Very high level language
+
+
+Question 620
+Which one of the following languages is generally described as the Fourth Generation Language?
+
+(a) Assembly Language
+(b) High Level Language
+(c) Machine Language
+(d) Very High Level Language [Answer]
+
+
+Question 621
+Which one of the following provides the most accurate definition of a database?
+
+(a) A resource that can be used to collect, organise and store data as a single unit. [Answer]
+(b) A resource that can be used to analyse and manipulate numerical data.
+(c) A resource that can be used to produce word-based documents.
+(d) A resource that can be used to design and develop a website.
+
+
+Question 622
+Which one of these languages is machine dependent?
+
+(a) Machine language [Answer]
+(b) High level language
+(c) Pascal language
+(d) Very high level language
+
+
+Question 623
+Which one of these languages is structured according to the data stored in the computer memory/
+
+(a) Machine language [Answer]
+(b) High level language
+(c) Basic language
+(d) Very high level language
+
+
+Question 624
+Which one of these languages possesses higher flexibility?
+
+(a) Machine language
+(b) Assembly language
+(c) Basic language [Answer]
+(d) very low level language
+
+
+Question 625
+Which One of these programming language categories refers to software rather than language
+
+(a) Machine language
+(b) Assembly language
+(c) High level language
+(d) Very high level language [Answer]
+
+
+Question 626
+Which operation is indicated by a parallelogram in flowchart?
+
+(a) Decision
+(b) Processing
+(c) Input/Output [Answer]
+(d) Looping
+
+
+Question 627
+Which part of the Computer is the Harware
+
+(a) Touchable
+(b) Physical [Answer]
+(c) Seeable
+(d) Feelable
+
+
+Question 628
+Which shape encloses an assignment statement in a flowchart?
+
+(a) Kite
+(b) Rectangle [Answer]
+(c) parallelogram
+(d) Oval
+
+
+Question 629
+Which shape encloses an LET statement in a flowchart
+
+(a) Kite
+(b) Rectangle [Answer]
+(c) parallelogram
+(d) Oval
+
+
+Question 630
+Which warrior was connected with the Trojan Horse
+
+(a) Spartacus
+(b) Odysseus [Answer]
+(c) Archilles
+(d) Julius Caeser
+
+
+Question 631
+Who conceived/invented BASIC programming?
+
+(a) John Kenedy and Blaise Pascal
+(b) John Kemeny and Thomas Kurtz [Answer]
+(c) John Thomas and Kemeny Kurtz
+(d) John Blaise and Kenedy Pascal
+
+
+Question 632
+Who developed the C Language
+
+(a) Linus Tovald
+(b) C Richardson
+(c) Dennis Ritchie [Answer]
+(d) Steve Jobs
+
+
+Question 633
+Who was the inventor of mechanical calculator for adding numbers?
+
+(a) Charles Babbage
+(b) Peano
+(c) Newton
+(d) Pascal [Answer]
+
+
+Question 634
+Wide area networks (WANs) always require
+
+(a) High bandwidth communication source link
+(b) High speed processors
+(c) A and B [Answer]
+(d) None of the above
+
+
+Question 635
+Within a computer network, a router would perform which one of the following functions?
+
+(a) Amplify and rebroadcast signals in a network.
+(b) Provide for communication within the network.
+(c) Select network pathways/links within a network for the flow of data/information. [Answer]
+(d) Forward data packets to their network destination.
+
+
+Question 636
+Word Perfect, Word star and Microsoft word are examples of
+
+(a) User-defined software
+(b) Generalised software [Answer]
+(c) System software
+(d) A and C
+
+
+Question 637
+WORM means
+
+(a) Write Only, Read More
+(b) Write Once, Read More
+(c) Write Once, Read Many [Answer]
+(d) Write Only, Read Many
+
+
+Question 638
+WPAN means
+
+(a) Wired Preview Adjusted Network
+(b) Wireless Private Area Network
+(c) Wireless Private Area Networking
+(d) Wireless Personal Area Network [Answer]
+
+
+Question 639
+Writing programs in Machine language is
+
+(a) time-consuming, susceptible to errors and very easy
+(b) time-consuming, symbolic and tedious
+(c) time-consuming, susceptible to errors, tedious [Answer]
+(d) time-consuming, susceptible to errors and symbolic
+
+
+Question 640
+_____ are programs that overwrite or replace another program in order to reproduce itself?
+
+(a) Malware
+(b) Computer Viruses [Answer]
+(c) Firewall
+(d) Worms
+
+
+Question 641
+_____ contains multiple ports to link one device to another?
+
+(a) Routers
+(b) Hubs [Answer]
+(c) Servers
+(d) Bridges
+
+
+Question 642
+_____ is a type of signal transmitted in a network?
+
+(a) Alpha ray
+(b) Infrared light [Answer]
+(c) Signs
+(d) Noise
+
+
+Question 643
+______ tells the computer the data items involved in an operation
+
+(a) Program
+(b) Operation code
+(c) Operation
+(d) Operand [Answer]
+
+
+Question 644
+______is a type of threat to a computer or its network
+
+(a) spyware
+(b) viruses
+(c) worms
+(d) All of the above [Answer]
+
+
+Question 645
+_______ informs the computer what to do
+
+(a) Operands
+(b) Data
+(c) Operation Code [Answer]
+(d) Symbols
+
+
+Question 646
+__________is used to create programs on internet
+
+(a) C++
+(b) HTML
+(c) C language
+(d) Java script [Answer]
+
+
+Question 647
+1 Gigabyte is 2 raised to power ____ bytes
+
+(a) 30 [Answer]
+
+
+Question 648
+1 Megabyte is 2 raised to power _____ bytes
+
+(a) 20 [Answer]
+
+
+Question 649
+1 Terabyte is 2 raised to power ______ bytes
+
+(a) 40 [Answer]
+
+
+Question 650
+The system software can be divided into operating system and ___________
+
+(a) firmware [Answer]
+
+
+Question 651
+A kilo byte is exactly equals to ______ bytes
+
+(a) 1024 [Answer]
+
+
+Question 652
+TRADIC  means
+
+(a) Transistor Digital Computer [Answer]
+
+
+Question 653
+Computers can be classified as Digital, ______, or Hybrid.
+
+(a) analog* [Answer]
+
+
+Question 654
+Real numbers can be represented on the computer using ______ and floating point representations
+
+(a) Fixed [Answer]
+(b) Fixed Point [Answer]
+
+
+Question 655
+1011001<sub>2</sub> equals ________________ in hexadecimal.
+
+(a) 59 [Answer]
+
+
+Question 656
+What is the value of 7236<sub>8</sub> in binary?
+
+(a) 111010011110 [Answer]
+
+
+Question 657
+What is the value of BED<sub>hex </sub>in binary?
+
+(a) 101111101101 [Answer]
+
+
+Question 658
+Signed numbers can be represented on the computer using __________, one's and two's complement
+
+(a) sign* magnitude* [Answer]
+
+
+Question 659
+The two's complement of  9<sub>10 </sub>using 4bits is ___________________________
+
+(a) 0111 [Answer]
+
+
+Question 660
+<img src="@@PLUGINFILE@@/gate1.jpg" alt="multiply" width="483" height="106" />
+ The above is a _______________________ gate
+
+(a) AND [Answer]
+
+
+Question 661
+<img src="@@PLUGINFILE@@/gate2.jpg" alt="inverse" width="499" height="180" />
+ The above is a ________________ gate
+
+(a) NOT [Answer]
+
+
+Question 662
+The figure below is a ____________________ gate.
+ <img src="@@PLUGINFILE@@/gate3.jpg" alt="add" width="448" height="162" />
+
+(a) OR [Answer]
+
+
+Question 663
+Another name for the base in floating point representation is _________
+
+(a) radix [Answer]
+
+
+Question 664
+BCD means ________________
+
+(a) Binary Coded Decimal [Answer]
+
+
+Question 665
+What is 30<sub>10 </sub>in binary using five bits? <sub>_________________2</sub>
+
+(a) 11110 [Answer]
+
+
+Question 666
+0.375<sub>10</sub> equals ___________ in base two
+
+(a) 0.011 [Answer]
+
+
+Question 667
+Convert 12.75<sub>10</sub> to binary.
+
+(a) 1100.11 [Answer]
+
+
+Question 668
+Convert 1101.01<sub>2</sub> to decimal.
+
+(a) 13.25 [Answer]
+
+
+Question 669
+10<sub>10</sub> equals ________________ in 8421BCD?
+
+(a) 00010000 [Answer]
+
+
+Question 670
+A set of interconnected networks that uses some network protocol is called?
+
+(a) Intranet [Answer]
+(b) internet [Answer]
+
+
+Question 671
+Adobe Pagemaker and Ventura are examples of packages used for
+
+(a) Desktop Publishing [Answer]
+(b) Publishing [Answer]
+
+
+Question 672
+All Programs that are harmful to the Computer System are reffered to as
+
+(a) MALWARE [Answer]
+(b) VIRUS [Answer]
+
+
+Question 673
+ALU means
+
+(a) Arithmetic and Logical Unit [Answer]
+(b) Arithmetic and Logic Unit
+
+
+Question 674
+Application Softwares can be sub-divided into two classes. Mention any one of them
+
+(a) Generali*sed Software [Answer]
+(b) User* defined Software [Answer]
+
+
+Question 675
+ARPANET means
+
+(a) Advanced Research Projects Agency NETworks [Answer]
+
+
+Question 676
+BASIC means
+
+(a) Beginners All-purpose Symbolic Instruction Code [Answer]
+(b) Beginners Allpurpose Symbolic Instruction Code [Answer]
+(c) Beginners All purpose Symbolic Instruction Code [Answer]
+
+
+Question 677
+BGP means
+
+(a) Border Gateway Protocol [Answer]
+
+
+Question 678
+BIOS means
+
+(a) Basic Input Output System [Answer]
+
+
+Question 679
+COBOL means
+
+(a) Common Business Oriented Language [Answer]
+
+
+Question 680
+Components that restricts access between protected network is called?
+
+(a) firewall [Answer]
+
+
+Question 681
+DHCP means
+
+(a) Dynamic Host Configuration Protocol [Answer]
+
+
+Question 682
+EPROM means
+
+(a) Erasable Programmable Read Only Memory [Answer]
+
+
+Question 683
+FORTRAN means
+
+(a) Formular Translator [Answer]
+(b) Formula* Translator [Answer]
+
+
+Question 684
+FTP means
+
+(a) File Transfer Protocol [Answer]
+
+
+Question 685
+How many are the geographical classification of computer networks?
+
+(a) 5 [Answer]
+
+
+Question 686
+How many typical parameters are for classifying network?
+
+(a) 4 [Answer]
+
+
+Question 687
+HP stands for
+
+(a) Hewlett Packard [Answer]
+
+
+Question 688
+In Subtraction using one's complement, which is complemented, minuend or subtrahend?
+
+(a) sub*trahend [Answer]
+
+
+Question 689
+In Subtraction using two's complement, which is complemented, minuend or subtrahend?
+
+(a) sub*trahend [Answer]
+
+
+Question 690
+Lexical Analysis and Code Generation are both stages in
+
+(a) Compil*ation [Answer]
+
+
+Question 691
+LOTUS 123 and SuperCalc are both examples of what kind of software application?
+
+(a) Spreadsheet* [Answer]
+
+
+Question 692
+McAfee is to Network Associate while Norton is to
+
+(a) Symantec [Answer]
+
+
+Question 693
+NASA means
+
+(a) National Aeronautics and Space Administration [Answer]
+
+
+Question 694
+NAT means
+
+(a) Network Address Translation [Answer]
+
+
+Question 695
+NSF means
+
+(a) National Science Foundation [Answer]
+
+
+Question 696
+PDA means
+
+(a) Pocket Digital Assistant [Answer]
+
+
+Question 697
+PROLOG means
+
+(a) Programming in Logic [Answer]
+(b) Programming Logic [Answer]
+
+
+Question 698
+RIM means
+
+(a) Research in Motion [Answer]
+
+
+Question 699
+Source Program is to Programming Language as Object Code is to
+
+(a) Machine* Language [Answer]
+
+
+Question 700
+SPSS means
+
+(a) Statistical Packages for Social Sciences [Answer]
+(b) Statistic* Package* Social Sciences [Answer]
+
+
+Question 701
+The full meaning of ASCII is
+
+(a) American Standard Code for Information Interchange [Answer]
+
+
+Question 702
+The full meaning of EBCDIC is
+
+(a) Extended Binary Coded Decimal Interchange Code [Answer]
+
+
+Question 703
+The general name for all programs that are harmful to the computer system is called?
+
+(a) malware [Answer]
+
+
+Question 704
+The primary aim of connecting two or more computers together is to
+
+(a) share resources [Answer]
+
+
+Question 705
+The types of Parity include
+
+(a) even* [Answer]
+(b) odd* [Answer]
+
+
+Question 706
+TI-ASC means
+
+(a) Texas Instrument Advanced Scientific Calculator [Answer]
+(b) Texas Instrument - Advanced Scientific Calculator [Answer]
+
+
+Question 707
+USB means
+
+(a) Universal Serial Bus [Answer]
+
+
+Question 708
+What networking device forwards data packets between networks?
+
+(a) router* [Answer]
+
+
+Question 709
+Who ordered the building of the Trojan Horse
+
+(a) Odysseus [Answer]
+
+
+Question 710
+The second and third generations of computers fell between 1954-1972?
+
+(a) true [Answer]
+(b) false
+
+
+Question 711
+ASCII uses 7-bits  to represent a character?
+
+(a) true [Answer]
+(b) false
+
+
+Question 712
+EBCDIC can represent a maximum of 128 different characters?
+
+(a) true
+(b) false [Answer]
+
+
+Question 713
+The mantissa in the floating point representation of real number ranges from 1 to 10?
+
+(a) true
+(b) false [Answer]
+
+
+Question 714
+If X=TRUE, Y= FALSE and Z= TRUE;
+ what is X NAND Y NOR Z?
+
+(a) true
+(b) false [Answer]
+
+
+Question 715
+The general format for floating point representation is N = m * b<sup>e</sup>
+
+(a) true [Answer]
+(b) false
+
+
+Question 716
+The two popular BCD codes are 8421 and 5421
+
+(a) true
+(b) false [Answer]
+
+
+Question 717
+Using an even parity, is this byte (10001100) transmitted correctly?
+
+(a) true
+(b) false [Answer]
+
+
+Question 718
+Using an odd parity, is this byte (10001100) transmitted correctly?
+
+(a) true [Answer]
+(b) false
