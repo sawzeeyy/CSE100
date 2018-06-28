@@ -21,7 +21,7 @@ git clone https://github.com/sawzeeyy/CSE100.git
 ```
 2. Decompile the app using Apktool
 ```
-./apktool -d CSE100.apk
+./apktool d CSE100.apk
 ```
 3. After decompiling, a folder would be included on your PC with the name of the app, `../CSE100/CSE100`
 4. The file containing the question is located at `../CSE100/assets/www/api/newQuestions.json`
